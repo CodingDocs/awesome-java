@@ -50,7 +50,7 @@ TODO:
 
 ## 框架
 
-1. **[spring-boot](https://github.com/spring-projects/spring-boo)** ：Spring Boot可以轻松创建独立的生产级基于Spring的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分Spring Boot项目只需要少量的配置即可，这有别于 Spring 的重配置。
+1. **[spring-boot](https://github.com/spring-projects/spring-boot)** ：Spring Boot可以轻松创建独立的生产级基于Spring的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分Spring Boot项目只需要少量的配置即可，这有别于 Spring 的重配置。
 2.  **[flink](https://github.com/apache/flink)** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
 3. **[Sentinel](https://github.com/alibaba/Sentinel)** ：A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)。
 4. **[dubbo](https://github.com/apache/dubbo)** ：Apache Dubbo是一个基于Java的高性能开源RPC框架。
