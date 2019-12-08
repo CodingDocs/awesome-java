@@ -19,12 +19,13 @@ TODO:
 3.  **[advanced-java](https://github.com/doocs/advanced-java)** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 4. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer/issues)** ：Java工程师成神之路 。
 5. **[tutorials](https://github.com/eugenp/tutorials)**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework  -  Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
+6. **[JCSprout](https://github.com/crossoverJie/JCSprout)** :处于萌芽阶段的Java核心知识库。
+7. **[JGrowing](https://github.com/javagrowing/JGrowing)** ：Java is Growing up but not only Java。Java成长路线，但学到不仅仅是Java。
 
 ### 数据结构/算法
 
 1. **[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)** :Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）。
 2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java)** :All Algorithms implemented in Java。
-3. 
 
 ### SpringBoot
 
@@ -55,13 +56,13 @@ TODO:
 1. **[elasticsearch](https://github.com/elastic/elasticsearch)**：开源，分布式，RESTful搜索引擎。
 2. **[apollo](https://github.com/ctripcorp/apollo)** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 3. **[canal](https://github.com/alibaba/canal)** :阿里巴巴 MySQL binlog 增量订阅&消费组件。
-4. **[server](https://github.com/wildfirechat/server)** ： 野火IM是一套跨平台、核心功能开源的即时通讯解决方案。
-5. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** ： Easy Scheduler是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler以DAG方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
+4. **[cat](https://github.com/dianping/cat)** ： CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
+5. **[server](https://github.com/wildfirechat/server)** ： 野火IM是一套跨平台、核心功能开源的即时通讯解决方案。
+6. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** ： Easy Scheduler是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler以DAG方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
 
 ### 其他
 
 1. **[halo](https://github.com/halo-dev/halo)** :Halo 可能是最好的 Java 博客系统。
-2. 
 
 ## 实战
 
