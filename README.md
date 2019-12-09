@@ -1,6 +1,4 @@
-# Awsome Java
-
-Great Java project on Github(Github 上非常棒的 Java 开源项目).
+  <p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
 [English Version](https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md)
 
