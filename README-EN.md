@@ -4,7 +4,7 @@ Great Java project on Github.
 
 >  Github is a fantastic place for programmers. It contains a variety of powerful open source frameworks, software and tutorials. These things are very helpful for us to learn knowledge and make progress, leading to my idea of sorting out outstanding Java open source projects on Github for the best of everyone's benefit. I have categorized the project based on several dimensions. If you feel this project useful to you, welcome to give this project a Star. I will continue to improve this list using my spare time, thank you. 🙏 You are also very welcome to recommend the Java projects that you like. The order of the following projects is mostly based on their popularity (the number their Stars) .
 
-## Course
+## Tutorial
 
 ### Java
 
@@ -54,7 +54,7 @@ Great Java project on Github.
 
 ## Software/System
 
-### develop
+### Develop
 
 1. **[elasticsearch](https://github.com/elastic/elasticsearch)** :  Open Source, Distributed, RESTful Search Engine. 
 2. **[zipkin](https://github.com/openzipkin/zipkin)**  :  Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in service architectures. Features include both the collection and lookup of this data.  
@@ -65,18 +65,18 @@ Great Java project on Github.
 7. **[server](https://github.com/wildfirechat/server)** :  Wildfire IM is a cross-platform  instant messaging solution, whose core functionality is open sourced.  
 8. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** : Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.   
 
-### others
+### Others
 
 1. **[halo](https://github.com/halo-dev/halo)** : Halo is a modern personal independent blogging system -- the best Java blogging system. 
 
-## Actual combat
+## Practical Project
 
 1. **[mall](https://github.com/macrozheng/mall)**  : The mall project is a set of e-commerce systems, including a front-end mall system and a back-end management system, which are implemented based on SpringBoot + MyBatis.  
 2. **[litemall](https://github.com/linlinjava/litemall)**  :  litemall = Spring Boot backend + Vue administrator front end + WeChat applet user front end + Vue user mobile end.  
 3. **[vhr](https://github.com/lenve/vhr)**  : Micro Personnel is a human resource management system with separate front and back ends. The project is developed using SpringBoot + Vue. 
 4. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)**  :  Spring Boot 2.1.3, Shiro 1.4.0 & Layui 2.5.4 permission management system.  
 
-## tool
+## Tool
 
 1. **[guava](https://github.com/google/guava)**  :  Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more. 
 2. **[p3c](https://github.com/alibaba/p3c)**  : Alibaba Java Coding Guidelines pmd implements and IDE plugin，Used to improve your programming specifications，This plugin is available on both Eclipse and IDEA and is recommended. 
@@ -84,5 +84,15 @@ Great Java project on Github.
 4. **[hutool](https://github.com/looly/hutool)** :  A set of tools that keep Java sweet.  
 5. **[thingsboard](https://github.com/thingsboard/thingsboard)**  :  Open-source IoT Platform - Device management, data collection, processing and visualization.  
 
+## Introduction
 
+### Member List
+
+<a href="https://github.com/Snailclimb">
+    <img src="https://avatars1.githubusercontent.com/u/29880145?s=460&v=4" width="45px">
+</a>
+
+<a href="https://github.com/zhangjia">
+    <img src="https://avatars3.githubusercontent.com/u/30466440?s=460&v=4" width="45px">
+</a>
 
