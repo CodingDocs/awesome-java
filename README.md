@@ -77,9 +77,10 @@ Great Java project on Github(Github 上非常棒的 Java 开源项目).
 ## 实战
 
 1. **[mall](https://github.com/macrozheng/mall)** ：mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。 
-2. **[litemall](https://github.com/linlinjava/litemall)** ： 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。
-3. **[vhr](https://github.com/lenve/vhr)** ：微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-4. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
+2. **[mall-swarm](https://github.com/macrozheng/mall-swarm)** : mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。
+3. **[litemall](https://github.com/linlinjava/litemall)** ： 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。
+4. **[vhr](https://github.com/lenve/vhr)** ：微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+5. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
 
 ## 工具
 
