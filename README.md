@@ -2,13 +2,12 @@
 
 Great Java project on Github(Github 上非常棒的 Java 开源项目).
 
+[English Version](https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md)
+
 > 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢🙏。
 >
 > 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
 
-TODO:
-
-- [ ] 英文版
 
 ## 教程
 
