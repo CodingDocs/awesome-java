@@ -1,5 +1,4 @@
   <p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
-
 > 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢🙏。
 >
 > 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
@@ -13,7 +12,7 @@
 2. **[CS-Notes](https://github.com/CyC2018/CS-Notes)** ：技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
 3.  **[advanced-java](https://github.com/doocs/advanced-java)** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome)** ：后端架构师技术图谱。
-5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer/issues)** ：Java工程师成神之路 。
+5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)** ：Java工程师成神之路 。
 6. **[tutorials](https://github.com/eugenp/tutorials)**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework  -  Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
 7. **[JCSprout](https://github.com/crossoverJie/JCSprout)** :处于萌芽阶段的Java核心知识库。
 8. **[JavaFamily](https://github.com/AobingJava/JavaFamily)** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。

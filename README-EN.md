@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br /><a href="https://github.com/Snailclimb/awsome-java">中文</a> | English <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
-
 >  Github is a fantastic place for programmers. It contains a variety of powerful open source frameworks, software and tutorials. These things are very helpful for us to learn knowledge and make progress, leading to my idea of sorting out outstanding Java open source projects on Github for the best of everyone's benefit. I have categorized the project based on several dimensions. If you feel this project useful to you, welcome to give this project a Star. I will continue to improve this list using my spare time, thank you. 🙏 You are also very welcome to recommend the Java projects that you like. The order of the following projects is mostly based on their popularity (the number their Stars) .
 
 ## Tutorial
@@ -10,7 +9,7 @@
 2. **[CS-Notes](https://github.com/CyC2018/CS-Notes)**:  Essential basic knowledge for technical interviews, Leetcode solutions, back-end interview, Java interview, spring recruit, autumn recruit, operating system, computer network, system design.
 3. **[advanced-java](https://github.com/doocs/advanced-java)**: The advanced knowledge of  Java Internet engineers, covering high concurrency, distributed systems, high availability, microservice, massive data processing and other fields of knowledge.
 4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome)** : The Backend architect technical map.
-5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer/issues)**  :  From zero to one, the success road for Java engineers. 
+5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer)**  :  From zero to one, the success road for Java engineers. 
 6. **[tutorials](https://github.com/eugenp/tutorials)** : This project is a collection of small but focused tutorials - each covering a single and well defined area of the Java ecosystem. Its focus is the Spring Framework - Spring, Spring Boot and Spring Security. In additional to Spring, the modules cover a number of aspects in Java. 
 7. **[JCSprout](https://github.com/crossoverJie/JCSprout)** :  Java Core knowledge，It is still in an embryonic stage.
 8. **[JavaFamily](https://github.com/AobingJava/JavaFamily)** : Advanced and Complete Knowledge for [Internet Frontline Interview + Learning Guide.
