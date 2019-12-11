@@ -66,6 +66,13 @@
 8. **[server](https://github.com/wildfirechat/server)** ： 野火IM是一套跨平台、核心功能开源的即时通讯解决方案。
 9. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** ： Easy Scheduler是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler以DAG方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
 
+### 代码质量
+
+1. **[sonarqube](https://github.com/SonarSource/sonarqube)** ：SonarQube支持所有开发人员编写更干净，更安全的代码。
+2. **[checkstyle](https://github.com/checkstyle/checkstyle)** :Checkstyle是一种开发工具，可帮助程序员编写符合编码标准的Java代码。它使检查Java代码的过程自动化，从而使人们不必执行这项无聊（但很重要）的任务。这使其成为想要实施编码标准的项目的理想选择。
+3. **[pmd](https://github.com/pmd/pmd)** : 可扩展的多语言静态代码分析器。
+4. **[spotbugs](https://github.com/spotbugs/spotbugs)** :SpotBugs是FindBugs的继任者。静态分析工具，用于查找Java代码中的错误。
+
 ### 其他
 
 1. **[halo](https://github.com/halo-dev/halo)** :Halo 可能是最好的 Java 博客系统。
