@@ -63,13 +63,6 @@
 8. **[server](https://github.com/wildfirechat/server)** :  Wildfire IM is a cross-platform  instant messaging solution, whose core functionality is open sourced.  
 9. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** : Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.   
 
-### Code Quality
-
-1. **[sonarqube](https://github.com/SonarSource/sonarqube)** ：SonarQube empowers all developers to write cleaner and safer code.
-2. **[checkstyle](https://github.com/checkstyle/checkstyle)** :Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-3. **[pmd](https://github.com/pmd/pmd)** : An extensible multilanguage static code analyzer. 
-4. **[spotbugs](https://github.com/spotbugs/spotbugs)** : SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. 
-
 ### Others
 
 1. **[halo](https://github.com/halo-dev/halo)** : Halo is a modern personal independent blogging system -- the best Java blogging system. 
@@ -84,11 +77,24 @@
 
 ## Tool
 
+### Common Utils/Code Quality
+
 1. **[guava](https://github.com/google/guava)**  :  Guava is a set of core libraries that includes new collection types (such as multimap and multiset), immutable collections, a graph library, and utilities for concurrency, I/O, hashing, primitives, strings, and more. 
 2. **[p3c](https://github.com/alibaba/p3c)**  : Alibaba Java Coding Guidelines pmd implements and IDE plugin，Used to improve your programming specifications，This plugin is available on both Eclipse and IDEA and is recommended. 
 3. **[arthas](https://github.com/alibaba/arthas)**  : Arthas is a Java Diagnostic tool open sourced by Alibaba. Arthas allows developers to troubleshoot production issues for Java applications without modifying code or restarting servers. 
-4. **[hutool](https://github.com/looly/hutool)** :  A set of tools that keep Java sweet.  
-5. **[thingsboard](https://github.com/thingsboard/thingsboard)**  :  Open-source IoT Platform - Device management, data collection, processing and visualization.  
+4. **[sonarqube](https://github.com/SonarSource/sonarqube)** ：SonarQube empowers all developers to write cleaner and safer code.
+2. **[checkstyle](https://github.com/checkstyle/checkstyle)** :Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+3. **[pmd](https://github.com/pmd/pmd)** : An extensible multilanguage static code analyzer. 
+4. **[spotbugs](https://github.com/spotbugs/spotbugs)** : SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code. 
+8. **[hutool](https://github.com/looly/hutool)** :  A set of tools that keep Java sweet.  
+
+### Database
+
+- **[redisson](https://github.com/redisson/redisson)** ：Redisson - Redis Java client with features of In-Memory Data Grid. Supports over 30 objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC. [Introduction to the Redisson project](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D).
+
+### Others
+
+1. **[thingsboard](https://github.com/thingsboard/thingsboard)**  :  Open-source IoT Platform - Device management, data collection, processing and visualization.  
 
 ## Introduction
 
