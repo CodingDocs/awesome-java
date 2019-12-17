@@ -65,6 +65,12 @@
 8. **[server](https://github.com/wildfirechat/server)** :  Wildfire IM is a cross-platform  instant messaging solution, whose core functionality is open sourced.  
 9. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** : Dolphin Scheduler is a distributed and easy-to-expand visual DAG workflow scheduling system, dedicated to solving the complex dependencies in data processing, making the scheduling system out of the box for data processing.   
 
+### Message-Oriented Middleware
+
+1. **[RocketMQ](https://github.com/apache/rocketmq)** ：A high performance, high throughput distributed messaging middleware that is open source by Alibaba.
+2. **[Kafaka](https://github.com/apache/kafka)**: Kafka is a distributed, publish/subscribe based messaging system.
+3. **[RabbitMQ](https://github.com/rabbitmq)** : Message queues developed by Erlang based on the protocol implementation of AMQP (Advanced Message Queue protocol).
+
 ### Others
 
 1. **[halo](https://github.com/halo-dev/halo)** : Halo is a modern personal independent blogging system -- the best Java blogging system. 

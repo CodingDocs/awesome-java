@@ -56,7 +56,7 @@
 
 ## 软件/系统
 
-### 开发
+### 开发常用
 
 1. **[elasticsearch](https://github.com/elastic/elasticsearch)**：开源，分布式，RESTful搜索引擎。
 2. **[zipkin](https://github.com/openzipkin/zipkin)**  ：Zipkin是一个分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的时序数据。功能包括该数据的收集和查找。
@@ -67,6 +67,12 @@
 7. **[cat](https://github.com/dianping/cat)** ： CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 8. **[server](https://github.com/wildfirechat/server)** ： 野火IM是一套跨平台、核心功能开源的即时通讯解决方案。
 9. **[EasyScheduler](https://github.com/analysys/EasyScheduler)** ： Easy Scheduler是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler以DAG方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
+
+### 消息中间件
+
+1. **[RocketMQ](https://github.com/apache/rocketmq)** ：阿里巴巴开源的一款高性能、高吞吐量的分布式消息中间件。
+2. **[Kafaka](https://github.com/apache/kafka)**: Kafka 是一种分布式的，基于发布 / 订阅的消息系统。关于它的入门可以查看：[Kafka入门看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/data-communication/Kafka入门看这一篇就够了.md)
+3. **[RabbitMQ](https://github.com/rabbitmq)** :由 erlang 开发的基于AMQP（Advanced Message Queue 高级消息队列协议）协议实现的消息队列。
 
 ### 其他
 
