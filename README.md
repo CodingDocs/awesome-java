@@ -1,5 +1,4 @@
   <p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
-
 > 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢🙏。
 >
 > 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
@@ -47,12 +46,13 @@
 ## 框架
 
 1. **[spring-boot](https://github.com/spring-projects/spring-boot)** ：Spring Boot可以轻松创建独立的生产级基于Spring的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分Spring Boot项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2.  **[flink](https://github.com/apache/flink)** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
-3. **[Sentinel](https://github.com/alibaba/Sentinel)** ：A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)。
-4. **[dubbo](https://github.com/apache/dubbo)** ：Apache Dubbo是一个基于Java的高性能开源RPC框架。
-5. **[spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes)** ： Kubernetes 集成 Spring Cloud Discovery Client, Configuration, etc...。
-6. **[seata](https://github.com/seata/seata)** : Seata 是一种易于使用，高性能，基于 Java 的开源分布式事务解决方案。
-7. **[skywalking](https://github.com/apache/skywalking)** : 针对分布式系统的应用性能监控，尤其是针对微服务、云原生和面向容器的分布式系统架构。
+2. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
+3. **[flink](https://github.com/apache/flink)** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
+4. **[Sentinel](https://github.com/alibaba/Sentinel)** ：A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)。
+5. **[dubbo](https://github.com/apache/dubbo)** ：Apache Dubbo是一个基于Java的高性能开源RPC框架。
+6. **[spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes)** ： Kubernetes 集成 Spring Cloud Discovery Client, Configuration, etc...。
+7. **[seata](https://github.com/seata/seata)** : Seata 是一种易于使用，高性能，基于 Java 的开源分布式事务解决方案。
+8. **[skywalking](https://github.com/apache/skywalking)** : 针对分布式系统的应用性能监控，尤其是针对微服务、云原生和面向容器的分布式系统架构。
 
 ## 软件/系统
 
