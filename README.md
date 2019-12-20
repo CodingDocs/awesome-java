@@ -2,6 +2,8 @@
 > 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢🙏。
 >
 > 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
+>
+> 如果有码云上比较好的项目的话，我也会推荐到这里来！
 
 
 ## 教程
@@ -31,8 +33,11 @@
 
 ### SpringCloud
 
-1. **[SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)** : 《史上最简单的Spring Cloud教程源码》。
-2. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud)** ：基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
+1. **[SpringCloudLearning](https://github.com/forezp/SpringCloudLearning)** : 方志朋的《史上最简单的Spring Cloud教程源码》。
+2. **[SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning)** : Spring Cloud基础教程，持续连载更新中。
+3. **[spring-cloud](https://github.com/yinjihuan/spring-cloud)** ： 《Spring Cloud微服务-全栈技术与案例解析》和《Spring Cloud微服务 入门 实战与进阶》配套源码。
+4. **[spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples)** ：Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 （基本没更新了，Spring Cloud 比较老了）。
+5. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud)** ：基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
 
 ### 大数据
 
@@ -82,9 +87,11 @@
 
 1. **[mall](https://github.com/macrozheng/mall)** ：mall 项目是一套电商系统，包括前台商城系统及后台管理系统，基于 SpringBoot+MyBatis 实现。 
 2. **[mall-swarm](https://github.com/macrozheng/mall-swarm)** : mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。
-3. **[litemall](https://github.com/linlinjava/litemall)** ： 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。
-4. **[vhr](https://github.com/lenve/vhr)** ：微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-5. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
+3. **[Spring-Cloud-Admin](https://github.com/wxiaoqi/Spring-Cloud-Admin)** ：Cloud-Admin是国内首个基于Spring Cloud微服务化开发平台，具有统一授权、认证后台管理系统，其中包含具备用户管理、资源权限管理、网关API管理等多个模块，支持多业务系统并行开发，可以作为后端服务的开发脚手架。代码简洁，架构清晰，适合学习和直接项目中使用。核心技术采用Spring Boot2以及Spring Cloud Gateway相关核心组件，前端采用vue-element-admin组件。
+4. **[pig](https://gitee.com/log4j/pig)**：（gitee）基于Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的RBAC 权限管理系统。
+5. **[litemall](https://github.com/linlinjava/litemall)** ： 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端。
+6. **[vhr](https://github.com/lenve/vhr)** ：微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
+7. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
 
 ## 工具
 
