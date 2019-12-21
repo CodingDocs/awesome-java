@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br /><a href="https://github.com/Snailclimb/awsome-java">中文</a> | English <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
->  Github is a fantastic place for programmers. It contains a variety of powerful open source frameworks, software and tutorials. These things are very helpful for us to learn knowledge and make progress, leading to my idea of sorting out outstanding Java open source projects on Github for the best of everyone's benefit. I have categorized the project based on several dimensions. If you feel this project useful to you, welcome to give this project a Star. I will continue to improve this list using my spare time, thank you. 🙏 You are also very welcome to recommend the Java projects that you like. The order of the following projects is mostly based on their popularity (the number their Stars) .
->
->  If there is a better project on the gitee, I would also recommend coming here!
+Github is a fantastic place for programmers. It contains a variety of powerful open source frameworks, software and tutorials. These things are very helpful for us to learn knowledge and make progress, leading to my idea of sorting out outstanding Java open source projects on Github for the best of everyone's benefit. I have categorized the project based on several dimensions. If you feel this project useful to you, welcome to give this project a Star. I will continue to improve this list using my spare time, thank you. 🙏 You are also very welcome to recommend the Java projects that you like. The order of the following projects is mostly based on their popularity (the number their Stars) .
+
+If there is a better project on the gitee, I would also recommend coming here!
 
 ## Tutorial
 
