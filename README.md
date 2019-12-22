@@ -27,9 +27,11 @@
 
 ### SpringBoot
 
-1. **[SpringAll](https://github.com/wuyouzhuguli/SpringAll "SpringAll")** ：循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码。
-2. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
-3. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
+1. **[springboot-guide](https://github.com/Snailclimb/springboot-guide)** ：SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+。
+2. **[SpringAll](https://github.com/wuyouzhuguli/SpringAll "SpringAll")** ：循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码。
+3. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
+4. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
+5. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
 
 ### SpringCloud
 
@@ -111,14 +113,15 @@
 
 ### 常用工具类/代码质量
 
-1. **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
-2. **[p3c](https://github.com/alibaba/p3c "p3c")** ：Alibaba Java Coding Guidelines pmd implements and IDE plugin。Eclipse 和 IDEA 上都有该插件，推荐使用！
-3. **[arthas](https://github.com/alibaba/arthas "arthas")** ： Arthas 是 Alibaba 开源的 Java 诊断工具。
-4. **[sonarqube](https://github.com/SonarSource/sonarqube "sonarqube")** ：SonarQube 支持所有开发人员编写更干净，更安全的代码。
-5. **[checkstyle](https://github.com/checkstyle/checkstyle "checkstyle")** :Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的 Java 代码。它使检查 Java 代码的过程自动化，从而使人们不必执行这项无聊（但很重要）的任务。这使其成为想要实施编码标准的项目的理想选择。
-6. **[pmd](https://github.com/pmd/pmd "pmd")** : 可扩展的多语言静态代码分析器。
-7. **[spotbugs](https://github.com/spotbugs/spotbugs "spotbugs")** :SpotBugs 是 FindBugs 的继任者。静态分析工具，用于查找 Java 代码中的错误。
-8. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
+1. **[lombok](https://github.com/rzwitserloot/lombok)** :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals等方法。
+2. **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
+3. **[p3c](https://github.com/alibaba/p3c "p3c")** ：Alibaba Java Coding Guidelines pmd implements and IDE plugin。Eclipse 和 IDEA 上都有该插件，推荐使用！
+4. **[arthas](https://github.com/alibaba/arthas "arthas")** ： Arthas 是 Alibaba 开源的 Java 诊断工具。
+5. **[sonarqube](https://github.com/SonarSource/sonarqube "sonarqube")** ：SonarQube 支持所有开发人员编写更干净，更安全的代码。
+6. **[checkstyle](https://github.com/checkstyle/checkstyle "checkstyle")** :Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的 Java 代码。它使检查 Java 代码的过程自动化，从而使人们不必执行这项无聊（但很重要）的任务。这使其成为想要实施编码标准的项目的理想选择。
+7. **[pmd](https://github.com/pmd/pmd "pmd")** : 可扩展的多语言静态代码分析器。
+8. **[spotbugs](https://github.com/spotbugs/spotbugs "spotbugs")** :SpotBugs 是 FindBugs 的继任者。静态分析工具，用于查找 Java 代码中的错误。
+9. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
 
 ### 开发必备
 
