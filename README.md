@@ -140,7 +140,7 @@
 1. **[pdfbox](https://github.com/apache/pdfbox)** :用于处理PDF文档的开放源码Java工具。该项目允许创建新的PDF文档、对现有文档进行操作以及从文档中提取内容。PDFBox还包括几个命令行实用程序。PDFBox是在Apache 2.0版许可下发布的。
 2. **[OpenPDF](https://github.com/LibrePDF/OpenPDF)** ：OpenPDF是一个免费的Java库，用于使用LGPL和MPL开源许可创建和编辑PDF文件。OpenPDF基于iText的一个分支。
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
-4. **[FOP](https://xmlgraphics.apache.org/fop/)** :
+4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是PDF。
 
 ### 其他
 
