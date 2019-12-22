@@ -3,7 +3,38 @@
 
 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
 
-如果有码云上比较好的项目的话，我也会推荐到这里来！
+如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
+
+## 目录
+
+- [教程](#教程)
+    - [Java](#java)
+    - [数据结构/算法](#数据结构算法)
+    - [SpringBoot](#springboot)
+    - [SpringCloud](#springcloud)
+    - [大数据](#大数据)
+    - [设计模式](#设计模式)
+- [实战项目](#实战项目)
+- [系统设计](#系统设计)
+    - [微服务/分布式](#微服务分布式)
+        - [基础框架](#基础框架)
+        - [Spring Cloud Alibaba 相关](#spring-cloud-alibaba-相关)
+        - [API 网关](#api-网关)
+        - [其他](#其他)
+    - [消息中间件](#消息中间件)
+    - [搜索引擎](#搜索引擎)
+    - [数据库](#数据库)
+    - [其他](#其他-1)
+- [工具](#工具)
+    - [常用工具类/代码质量](#常用工具类代码质量)
+    - [Excel](#excel)
+    - [PDF](#pdf)
+    - [开发必备](#开发必备)
+      - [API 请求](#api-请求)
+      - [Markdown](#markdown)
+    - [其他](#其他-2)
+- [说明](#说明)
+    - [成员列表](#成员列表)
 
 ## 教程
 
@@ -127,10 +158,6 @@
 8. **[spotbugs](https://github.com/spotbugs/spotbugs "spotbugs")** :SpotBugs 是 FindBugs 的继任者。静态分析工具，用于查找 Java 代码中的错误。
 9. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
 
-### 开发必备
-
-1. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
-
 ### Excel
 
 1. **[easyexcel](https://github.com/alibaba/easyexcel)** :快速、简单避免OOM的java处理Excel工具。
@@ -141,6 +168,19 @@
 2. **[OpenPDF](https://github.com/LibrePDF/OpenPDF)** ：OpenPDF是一个免费的Java库，用于使用LGPL和MPL开源许可创建和编辑PDF文件。OpenPDF基于iText的一个分支。
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
 4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是PDF。
+
+### 开发必备
+
+#### API 请求
+
+1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试API。我平时经常用的，界面美观且轻量，总之很喜欢。
+2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
+3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
+
+#### Markdown
+
+1. **[Typora](https://www.typora.io/)** :我一直用的一款 Markdown 工具，直接文件夹试图和目录试图，支持 Markdown 格式直接导出成 PDF、HTML 等格式。
+2. **[markdown-here](https://github.com/adam-p/markdown-here)** ：使用 markdown 语法发邮件，并且提供多种主题，快来拯救你的邮件格式吧！
 
 ### 其他
 
