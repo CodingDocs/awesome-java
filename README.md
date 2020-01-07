@@ -5,6 +5,8 @@
 
 如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
 
+欢迎关注我的[公众号](#公众号)
+
 ## 目录
 
 - [教程](#教程)
@@ -187,6 +189,10 @@
 1. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
 
 ## 说明
+
+### 公众号
+
+<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/默认标题_方形二维码_2019-11-28-0.png" style="zoom:150%;" />
 
 ### 成员列表
 
