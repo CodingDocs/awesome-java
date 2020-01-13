@@ -14,6 +14,7 @@
     - [数据结构/算法](#数据结构算法)
     - [SpringBoot](#springboot)
     - [SpringCloud](#springcloud)
+    - [消息中间件](#消息中间件)
     - [大数据](#大数据)
     - [设计模式](#设计模式)
 - [实战项目](#实战项目)
@@ -23,19 +24,26 @@
         - [Spring Cloud Alibaba 相关](#spring-cloud-alibaba-相关)
         - [API 网关](#api-网关)
         - [其他](#其他)
-    - [消息中间件](#消息中间件)
+    - [消息中间件](#消息中间件-1)
     - [搜索引擎](#搜索引擎)
     - [数据库](#数据库)
+        - [MySQL](#mysql)
+        - [Redis](#redis)
+    - [大数据](#大数据-1)
+    - [开方平台(如微信)](#开方平台如微信)
     - [其他](#其他-1)
+- [Devpos](#devpos)
+    - [CI](#ci)
 - [工具](#工具)
     - [常用工具类/代码质量](#常用工具类代码质量)
     - [Excel](#excel)
     - [PDF](#pdf)
     - [开发必备](#开发必备)
-      - [API 请求](#api-请求)
-      - [Markdown](#markdown)
+        - [API 请求](#api-请求)
+        - [Markdown](#markdown)
     - [其他](#其他-2)
 - [说明](#说明)
+    - [公众号](#公众号)
     - [成员列表](#成员列表)
 
 ## 教程
@@ -75,6 +83,10 @@
 3. **[spring-cloud](https://github.com/yinjihuan/spring-cloud "spring-cloud")** ： 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
 4. **[spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples "spring-cloud-examples")** ：Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 （基本没更新了，Spring Cloud 比较老了）。
 5. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud "SpringCloud")** ：基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
+
+### 消息中间件
+
+1. **kafka-streams-examples** ：Apache Kafka的Streams API的演示应用程序和代码示例。
 
 ### 大数据
 
@@ -120,7 +132,6 @@
 
 #### 其他
 
-1. **[flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
 2. **[skywalking](https://github.com/apache/skywalking "skywalking")** : 针对分布式系统的应用性能监控，尤其是针对微服务、云原生和面向容器的分布式系统架构。
 3. **[apollo](https://github.com/ctripcorp/apollo "apollo")** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 4. **[zipkin](https://github.com/openzipkin/zipkin "zipkin")** ：Zipkin 是一个分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的时序数据。功能包括该数据的收集和查找。
@@ -140,11 +151,23 @@
 
 #### MySQL
 
-- **[druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+1. **[druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
 
 #### Redis
 
-- **[redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
+1. **[redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
+
+### 大数据
+
+1. **[spark](https://github.com/apache/spark)** :Spark是用于大规模数据处理的统一分析引擎。
+2. **[flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
+3. **[hbase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用HBase技术可在廉价PC Server上搭建起大规模结构化存储集群。
+4. **[flume](https://flume.apache.org/)** :Apache Flume是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
+5. **[storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
+
+### 开方平台(如微信)
+
+1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
 ### 其他
 
@@ -153,6 +176,13 @@
 3. **[cat](https://github.com/dianping/cat "cat")** ： CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC 框架，RPC 框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。
 4. **[server](https://github.com/wildfirechat/server "server")** ： 野火 IM 是一套跨平台、核心功能开源的即时通讯解决方案。
 5. **[halo](https://github.com/halo-dev/halo "halo")** :Halo 可能是最好的 Java 博客系统。
+6. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建Spring Boot + Angular / React项目！
+
+## Devpos
+
+### CI
+
+1. **[jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins是领先的开源自动化服务器。它使用Java构建，提供了1600多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
 
 ## 工具
 
