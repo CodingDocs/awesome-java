@@ -29,6 +29,7 @@
     - [数据库](#数据库)
         - [MySQL](#mysql)
         - [Redis](#redis)
+        - [其他](#其他)
     - [大数据](#大数据-1)
     - [开方平台(如微信)](#开方平台如微信)
     - [其他](#其他-1)
@@ -56,12 +57,14 @@
 4. **[miaosha](https://github.com/qiurunze123/miaosha "miaosha")** ： 秒杀系统设计与实现.互联网工程师进阶与分析。
 5. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
 6. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
-7. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
-8. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
-9. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
-10. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
-11. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
-12. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java编程思想》第5版， Java 四大名著之一。
+7. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+8. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
+9. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
+10. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
+11. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
+12. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+13. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
+14. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java编程思想》第5版， Java 四大名著之一。
 
 ### 数据结构/算法
 
@@ -114,8 +117,8 @@
 #### 基础框架
 
 1. **[spring-boot](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
-3. **[spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes "spring-cloud-kubernetes")** ： Kubernetes 集成 Spring Cloud Discovery Client, Configuration, etc...。
+3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
+4. **[spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes "spring-cloud-kubernetes")** ： Kubernetes 集成 Spring Cloud Discovery Client, Configuration, etc...。
 
 #### Spring Cloud Alibaba 相关
 
@@ -132,6 +135,7 @@
 
 #### 其他
 
+1. **[xxl-job](https://github.com/xuxueli/xxl-job)** :XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 2. **[skywalking](https://github.com/apache/skywalking "skywalking")** : 针对分布式系统的应用性能监控，尤其是针对微服务、云原生和面向容器的分布式系统架构。
 3. **[apollo](https://github.com/ctripcorp/apollo "apollo")** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 4. **[zipkin](https://github.com/openzipkin/zipkin "zipkin")** ：Zipkin 是一个分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的时序数据。功能包括该数据的收集和查找。
@@ -157,6 +161,11 @@
 
 1. **[redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
 
+#### 其他
+
+1. **[mybatis-3](https://github.com/mybatis/mybatis-3)** ： 适用于 Java 的 MyBatis SQL 映射器框架。
+2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。
+
 ### 大数据
 
 1. **[spark](https://github.com/apache/spark)** :Spark是用于大规模数据处理的统一分析引擎。
@@ -169,6 +178,11 @@
 
 1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
+### 测试
+
+1. **[mockito](https://github.com/mockito/mockito)** ：Mockito是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
+2. 
+
 ### 其他
 
 1. **[canal](https://github.com/alibaba/canal "canal")** :阿里巴巴 MySQL binlog 增量订阅&消费组件。
@@ -177,6 +191,7 @@
 4. **[server](https://github.com/wildfirechat/server "server")** ： 野火 IM 是一套跨平台、核心功能开源的即时通讯解决方案。
 5. **[halo](https://github.com/halo-dev/halo "halo")** :Halo 可能是最好的 Java 博客系统。
 6. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建Spring Boot + Angular / React项目！
+7. **[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的JAVA快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
 
 ## Devpos
 
