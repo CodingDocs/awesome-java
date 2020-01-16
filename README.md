@@ -240,7 +240,8 @@
 
 ### 其他
 
-1. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
+1. **[ip2region](https://github.com/lionsoul2014/ip2region)** :最自由的ip地址查询库，ip到地区的映射库，提供Binary,B树和纯内存三种查询算法，妈妈再也不用担心我的ip地址定位。
+2. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
 
 ## 说明
 
