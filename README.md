@@ -13,43 +13,6 @@
 
 ## 目录
 
-- [教程](#教程)
-    - [Java](#java)
-    - [数据结构/算法](#数据结构算法)
-    - [SpringBoot](#springboot)
-    - [SpringCloud](#springcloud)
-    - [消息中间件](#消息中间件)
-    - [大数据](#大数据)
-    - [设计模式](#设计模式)
-- [实战项目](#实战项目)
-- [系统设计](#系统设计)
-    - [微服务/分布式](#微服务分布式)
-        - [基础框架](#基础框架)
-        - [Spring Cloud Alibaba 相关](#spring-cloud-alibaba-相关)
-        - [API 网关](#api-网关)
-        - [其他](#其他)
-    - [消息中间件](#消息中间件-1)
-    - [搜索引擎](#搜索引擎)
-    - [数据库](#数据库)
-        - [MySQL](#mysql)
-        - [Redis](#redis)
-        - [其他](#其他)
-    - [大数据](#大数据-1)
-    - [开方平台(如微信)](#开方平台如微信)
-    - [其他](#其他-1)
-- [Devpos](#devpos)
-    - [CI](#ci)
-- [工具](#工具)
-    - [常用工具类/代码质量](#常用工具类代码质量)
-    - [Excel](#excel)
-    - [PDF](#pdf)
-    - [开发必备](#开发必备)
-        - [API 请求](#api-请求)
-        - [Markdown](#markdown)
-    - [其他](#其他-2)
-- [说明](#说明)
-    - [公众号](#公众号)
-    - [成员列表](#成员列表)
 
 ## 教程
 
@@ -182,18 +145,22 @@
 
 ### 数据库
 
-#### MySQL
+#### 数据库连接池
 
 1. **[druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。
 
-#### Redis
+#### 分布式数据库中间件
+
+1. **[shardingsphere](https://github.com/apache/shardingsphere)**  ：ShardingSphere是一套开源的分布式数据库中间件解决方案组成的生态圈，它由Sharding-JDBC、Sharding-Proxy和Sharding-Sidecar（计划中）这3款相互独立的产品组成。 他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如Java同构、异构语言、云原生等各种多样化的应用场景。中文文档：[https://shardingsphere.apache.org/document/current/cn/overview/](https://shardingsphere.apache.org/document/current/cn/overview/) 。
+
+#### Redis相关
 
 1. **[redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
 
-#### 其他
+#### 框架
 
 1. **[mybatis-3](https://github.com/mybatis/mybatis-3)** ： 适用于 Java 的 MyBatis SQL 映射器框架。
-2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。
 
 ### 大数据
 
