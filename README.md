@@ -25,7 +25,7 @@
     - [设计模式](#设计模式)
 - [实战项目](#实战项目)
     - [商城系统](#商城系统)
-    - [博客/论团/其他](#博客论团其他)
+    - [博客/论坛/其他](#博客论坛其他)
     - [权限管理系统](#权限管理系统)
 - [系统设计](#系统设计)
     - [微服务/分布式](#微服务分布式)
@@ -129,7 +129,7 @@
 5. **[xmall](https://github.com/Exrick/xmall)** :基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Spring/Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 
 6. **[newbee-mall](https://github.com/newbee-ltd/newbee-mall)** :newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
-### 博客/论团/其他
+### 博客/论坛/其他
 
 > Guide哥注：下面这几个项目都是非常适合 Spring Boot初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。
 
