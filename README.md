@@ -224,7 +224,10 @@
 ### 测试
 
 1. **[mockito](https://github.com/mockito/mockito)** ：Mockito是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
-2. 
+
+### 机器学习
+
+1. **[smile](https://github.com/haifengl/smile)** ：基于Java和Scala的机器学习库。
 
 ### 其他
 
