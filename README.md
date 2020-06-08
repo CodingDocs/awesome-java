@@ -10,53 +10,56 @@
 
 如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
 
+
 ## 目录
 
 <!-- TOC -->
 
 - [目录](#目录)
 - [教程](#教程)
-    - [Java](#java)
-    - [数据结构/算法](#数据结构算法)
-    - [SpringBoot](#springboot)
-    - [SpringCloud](#springcloud)
-    - [消息中间件](#消息中间件)
-    - [大数据](#大数据)
-    - [设计模式](#设计模式)
+  - [Java](#java)
+  - [数据结构/算法](#数据结构算法)
+  - [计算机基础](#计算机基础)
+  - [SpringBoot](#springboot)
+  - [SpringCloud](#springcloud)
+  - [大数据](#大数据)
 - [实战项目](#实战项目)
-    - [商城系统](#商城系统)
-    - [博客/论团/其他](#博客论团其他)
-    - [权限管理系统](#权限管理系统)
+  - [商城系统](#商城系统)
+  - [博客/论坛/其他](#博客论坛其他)
+  - [权限管理系统](#权限管理系统)
+  - [快速开发脚手架](#快速开发脚手架)
 - [系统设计](#系统设计)
-    - [微服务/分布式](#微服务分布式)
-        - [基础框架](#基础框架)
-        - [Spring Cloud Alibaba 相关](#spring-cloud-alibaba-相关)
-        - [API 网关](#api-网关)
-        - [其他](#其他)
-    - [消息中间件](#消息中间件-1)
-    - [搜索引擎](#搜索引擎)
-    - [数据库](#数据库)
-        - [数据库连接池](#数据库连接池)
-        - [分布式数据库中间件](#分布式数据库中间件)
-        - [Redis相关](#redis相关)
-        - [框架](#框架)
-    - [大数据](#大数据-1)
-    - [开方平台(如微信)](#开方平台如微信)
-    - [测试](#测试)
-    - [其他](#其他-1)
+  - [微服务/分布式](#微服务分布式)
+    - [基础框架](#基础框架)
+    - [Spring Cloud Alibaba 相关](#spring-cloud-alibaba-相关)
+    - [API 网关](#api-网关)
+    - [其他](#其他)
+  - [分布式任务调度/定时任务](#分布式任务调度定时任务)
+  - [消息中间件](#消息中间件)
+  - [搜索引擎](#搜索引擎)
+  - [数据库](#数据库)
+    - [数据库连接池](#数据库连接池)
+    - [分布式数据库中间件](#分布式数据库中间件)
+    - [Redis相关](#redis相关)
+    - [框架](#框架)
+  - [大数据](#大数据-1)
+  - [开放平台(如微信)](#开放平台如微信)
+  - [测试](#测试)
+  - [机器学习](#机器学习)
+  - [其他](#其他-1)
 - [Devpos](#devpos)
-    - [CI](#ci)
+  - [CI](#ci)
 - [工具](#工具)
-    - [常用工具类/代码质量](#常用工具类代码质量)
-    - [Excel](#excel)
-    - [PDF](#pdf)
-    - [开发必备](#开发必备)
-        - [API 请求](#api-请求)
-        - [Markdown](#markdown)
-    - [其他](#其他-2)
+  - [常用工具类/代码质量](#常用工具类代码质量)
+  - [Excel](#excel)
+  - [PDF](#pdf)
+  - [开发必备](#开发必备)
+    - [API 请求](#api-请求)
+    - [Markdown](#markdown)
+  - [其他](#其他-2)
 - [说明](#说明)
-    - [公众号](#公众号)
-    - [成员列表](#成员列表)
+  - [公众号](#公众号)
+  - [成员列表](#成员列表)
 
 <!-- /TOC -->
 
@@ -65,7 +68,6 @@
 ### Java
 
 1. **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-2. **[CS-Notes](https://github.com/CyC2018/CS-Notes "CS-Notes")** ：技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
 3. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 4. **[miaosha](https://github.com/qiurunze123/miaosha "miaosha")** ： 秒杀系统设计与实现.互联网工程师进阶与分析。
 5. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
@@ -79,11 +81,19 @@
 13. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 14. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
 15. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java编程思想》第5版， Java 四大名著之一。
+16. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
 
 ### 数据结构/算法
 
 1. **[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation "LeetCodeAnimation")** :Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）。
 2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
+3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
+4. **[LeetCode-Solution-in-Good-Style]( https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
+
+### 计算机基础
+
+1. **[CS-Notes](https://github.com/CyC2018/CS-Notes "CS-Notes")** ：技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
+2. **[Waking-Up](https://github.com/wolverinn/Waking-Up)**  ：计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
 
 ### SpringBoot
 
@@ -101,18 +111,10 @@
 4. **[spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples "spring-cloud-examples")** ：Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 （基本没更新了，Spring Cloud 比较老了）。
 5. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud "SpringCloud")** ：基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
 
-### 消息中间件
-
-1. **kafka-streams-examples** ：Apache Kafka的Streams API的演示应用程序和代码示例。
-
 ### 大数据
 
 1. **[BigData-Notes](https://github.com/heibaiying/BigData-Notes "BigData-Notes")** :大数据入门指南 ⭐️。
 2. **[flink-learning](https://github.com/zhisheng17/flink-learning "flink-learning")** ：含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。
-
-### 设计模式
-
-1. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
 
 ## 实战项目
 
@@ -129,7 +131,7 @@
 5. **[xmall](https://github.com/Exrick/xmall)** :基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Spring/Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等 
 6. **[newbee-mall](https://github.com/newbee-ltd/newbee-mall)** :newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
-### 博客/论团/其他
+### 博客/论坛/其他
 
 > Guide哥注：下面这几个项目都是非常适合 Spring Boot初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。
 
@@ -147,6 +149,19 @@
 2. **[pig](https://gitee.com/log4j/pig "pig")**：（gitee）基于 Spring Boot 2.2、 Spring Cloud Hoxton & Alibaba、 OAuth2 的 RBAC 权限管理系统。
 3. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro "FEBS-Shiro")** ：Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。
 4. **[eladmin](https://github.com/elunez/eladmin)** : 项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由。
+
+### 快速开发脚手架
+
+> **相关文章** ：
+>
+> 1. [听说你要接私活？Guide连夜整理了5个开源免费的Java项目快速开发脚手架。](https://sourl.cn/cFyLTR)
+> 2.  [解放双手，再来推荐5个Java项目开发快速开发脚手架！项目经验和私活都不愁了！](https://sourl.cn/StkiAv)
+
+1. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
+2. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。**Guns 功能齐全 ，采用主流框架Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。** 
+3. **[SpringBlade](https://gitee.com/smallc/SpringBlade)** ：SpringBlade 是一个由商业级项目升级优化而来的 SpringCloud 分布式微服务架构、SpringBoot 单体式微服务架构并存的综合型项目，采用 Java8 API 重构了业务代码，完全遵循阿里巴巴编码规范。采用 Spring Boot 2 、Spring Cloud Hoxton 、Mybatis 等核心技术，同时提供基于 React 和 Vue 的两个前端框架用于快速搭建企业级的 SaaS 多租户微服务平台。
+4. **[renren](https://www.renren.io/)** ： renren 下面一共开源了两个 Java 项目开发脚手架：①renren-security :采用 Spring、MyBatis、Shiro 框架，开发的一套轻量级权限系统，极低门槛，拿来即用。②renren-fast : 一个轻量级的 Java 快速开发平台，能快速开发项目并交付【接私活利器】
+5. **[COLA](https://github.com/alibaba/COLA)** ：根据我的了解来看，很多公司的项目都是基于 COLA 进行开发的，相比于其他快速开发脚手架，COLA 并不提供什么已经开发好的功能，它提供的主要是一个干净的架构，然后你可以在此基础上进行开发。通过一行命令就生成好的 web 后端项目骨架。
 
 ## 系统设计
 
@@ -173,11 +188,18 @@
 
 #### 其他
 
-1. **[xxl-job](https://github.com/xuxueli/xxl-job)** :XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 2. **[skywalking](https://github.com/apache/skywalking "skywalking")** : 针对分布式系统的应用性能监控，尤其是针对微服务、云原生和面向容器的分布式系统架构。
 3. **[apollo](https://github.com/ctripcorp/apollo "apollo")** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 4. **[zipkin](https://github.com/openzipkin/zipkin "zipkin")** ：Zipkin 是一个分布式跟踪系统。它有助于收集解决服务体系结构中的延迟问题所需的时序数据。功能包括该数据的收集和查找。
-5. **[EasyScheduler](https://github.com/analysys/EasyScheduler "EasyScheduler")** ： Easy Scheduler 是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler 以 DAG 方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
+
+### 分布式任务调度/定时任务
+
+相关阅读：[Spring Job、Quartz、XXL-Job对比+全解析](https://mp.weixin.qq.com/s/jqN4noo5NazckPCehWFgpA)
+
+1. [quartz](https://github.com/quartz-scheduler/quartz) ：一个很火的开源任务调度框架，Java定时任务领域的老大哥或者说参考标准， 很多其他任务调度框架都是基于 `quartz` 开发的，比如当当网的`elastic-job `就是基于`quartz`二次开发之后的分布式调度解决方案
+2. **[xxl-job](https://github.com/xuxueli/xxl-job)** :XXL-JOB是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
+3. **[Elastic-Job](http://elasticjob.io/index_zh.html)** ：Elastic-Job是当当网开源的一个基于Quartz和Zookeeper的分布式调度解决方案，由两个相互独立的子项目Elastic-Job-Lite和Elastic-Job-Cloud组成，一般我们只要使用Elastic-Job-Lite就好。
+4. **[EasyScheduler](https://github.com/analysys/EasyScheduler "EasyScheduler")** （ 更名为DolphinScheduler，已经成为 Apache 孵化器项目）： Easy Scheduler 是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler 以 DAG 方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
 
 ### 消息中间件
 
@@ -217,14 +239,17 @@
 4. **[flume](https://flume.apache.org/)** :Apache Flume是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
 5. **[storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
 
-### 开方平台(如微信)
+### 开放平台(如微信)
 
 1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
 ### 测试
 
 1. **[mockito](https://github.com/mockito/mockito)** ：Mockito是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
-2. 
+
+### 机器学习
+
+1. **[smile](https://github.com/haifengl/smile)** ：基于Java和Scala的机器学习库。
 
 ### 其他
 
