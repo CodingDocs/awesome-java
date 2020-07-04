@@ -97,6 +97,8 @@
 
 ### SpringBoot
 
+> 相关文章：[Github点赞接近100k的SpringBoot学习教程+实战推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488298&idx=3&sn=0a8fd88ec5a050de131c2a3305482ac4&chksm=cea25ce1f9d5d5f7f53a0237d27489326bce4546353b038085c03b086d91ef396bf824d3a155&token=496868067&lang=zh_CN#rd)
+
 1. **[springboot-guide](https://github.com/Snailclimb/springboot-guide)** ：SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+。
 2. **[SpringAll](https://github.com/wuyouzhuguli/SpringAll "SpringAll")** ：循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码。
 3. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
@@ -104,6 +106,8 @@
 5. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
 
 ### SpringCloud
+
+> 相关文章：[Github点赞接近 70k 的Spring Cloud学习教程+实战项目推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488377&idx=1&sn=0fb33ef330159db5a9c8bc0f029cd739&chksm=cea25cb2f9d5d5a4c7bacc9dcfc90ed86e89f4262e32b40c7aa47af84c747cb6c0429f753e1d&token=496868067&lang=zh_CN#rd)
 
 1. **[SpringCloudLearning](https://github.com/forezp/SpringCloudLearning "SpringCloudLearning")** : 方志朋的《史上最简单的 Spring Cloud 教程源码》。
 2. **[SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning "SpringCloud-Learning")** : Spring Cloud 基础教程，持续连载更新中。
