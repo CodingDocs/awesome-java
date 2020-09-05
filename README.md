@@ -43,6 +43,7 @@
     - [Redis相关](#redis相关)
     - [框架](#框架)
   - [大数据](#大数据-1)
+  - [日志系统](#日志系统)
   - [开放平台(如微信)](#开放平台如微信)
   - [测试](#测试)
   - [机器学习](#机器学习)
@@ -246,6 +247,12 @@
 3. **[hbase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用HBase技术可在廉价PC Server上搭建起大规模结构化存储集群。
 4. **[flume](https://flume.apache.org/)** :Apache Flume是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
 5. **[storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
+
+### 日志系统
+
+1. **[loki](https://github.com/grafana/loki)** ： `Loki`是 Grafana Labs 团队最新的开源项目，是一个水平可扩展，高可用性，多租户的日志聚合系统。它的设计非常经济高效且易于操作，因为它不会为日志内容编制索引，而是为每个日志流编制一组标签。项目受 Prometheus 启发，官方的介绍就是：`Like Prometheus, but for logs.`，类似于 Prometheus 的日志系统。 推荐阅读：
+   - [Loki日志系统](https://www.cnblogs.com/xiao987334176/p/13187473.html)
+   - [使用 Loki 进行日志监控和报警](https://www.qikqiak.com/post/use-loki-monitor-alert/)
 
 ### 开放平台(如微信)
 
