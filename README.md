@@ -139,6 +139,10 @@
 ### 博客/论坛/其他
 
 > Guide哥注：下面这几个项目都是非常适合 Spring Boot初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。
+>
+> 相关文章：
+>
+> 1. [想要搭建个人博客？我调研了100来个 Java 开源博客系统，发现这 5 个最好用！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247491191&idx=1&sn=fd5efa645c2f2e09f088f6a018cea028&chksm=cea251bcf9d5d8aac8653c686b7a331ffe4e13aa9ffc9beab2c378ea2497a9bd3295ff8d2c51&token=747074901&lang=zh_CN#rd)
 
 1. **[vhr](https://github.com/lenve/vhr "vhr")** ：微人事是一个前后端分离的人力资源管理系统，项目采用 SpringBoot+Vue 开发。
 2. **[favorites-web](https://github.com/cloudfavorites/favorites-web)** :云收藏 Spring Boot 2.X 开源项目。云收藏是一个使用 Spring Boot 构建的开源网站，可以让用户在线随时随地收藏的一个网站，在网站上分类整理收藏的网站或者文章。
