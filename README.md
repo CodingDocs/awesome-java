@@ -1,3 +1,5 @@
+> 阿里云最近在做活动，服务器不到10元/月，小伙伴们搭建一个网站提高简历质量。支持国内开源做的比较好的公司！[点击此链接直达活动首页。](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=hf47liqn)
+
 **关于作者：**
 
 1. 公众号 ： [JavaGuide](#公众号) （最新原创文章+免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源）
