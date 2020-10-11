@@ -80,7 +80,7 @@ If there is a better project on the gitee, I would also recommend coming here!
 ## Practical Project
 
 1. **[mall](https://github.com/macrozheng/mall)**  : The mall project is a set of e-commerce systems, including a front-end mall system and a back-end management system, which are implemented based on SpringBoot + MyBatis.  
-2. **[mall-swarm](https://github.com/macrozheng/mall-swarm)** :  mall-swarmis a set of micro-service mall system, which adopts core technologies such as Spring Cloud Greenwich, Spring Boot 2, MyBatis, Docker and Elasticsearch, and meanwhile provides a management background based on Vue to facilitate and quickly set up the system
+2. **[mall-swarm](https://github.com/macrozheng/mall-swarm)** :  mall-swarm is a set of micro-service mall system, which adopts core technologies such as Spring Cloud Greenwich, Spring Boot 2, MyBatis, Docker and Elasticsearch, and meanwhile provides a management background based on Vue to facilitate and quickly set up the system
 3. **[litemall](https://github.com/linlinjava/litemall)**  :  litemall = Spring Boot backend + Vue administrator front end + WeChat applet user front end + Vue user mobile end.  
 4. **[vhr](https://github.com/lenve/vhr)**  : Micro Personnel is a human resource management system with separate front and back ends. The project is developed using SpringBoot + Vue. 
 5. **[FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro)**  :  Spring Boot 2.1.3, Shiro 1.4.0 & Layui 2.5.4 permission management system.  
