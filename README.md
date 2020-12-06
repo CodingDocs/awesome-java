@@ -187,7 +187,8 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 #### 基础框架
 
 1. **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
+2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot  ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC框架）、SOFABolt（基于Netty的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
+3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
 
 #### Spring Cloud Alibaba
 
