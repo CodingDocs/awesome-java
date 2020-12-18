@@ -95,6 +95,7 @@
 2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
 3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 4. **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
+5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从0到1系统学习算法和数据结构。
 
 ### 计算机基础
 
