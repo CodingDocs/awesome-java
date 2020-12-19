@@ -15,7 +15,6 @@
 
 ## 目录
 
-
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
@@ -406,13 +405,3 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 ### 公众号
 
 <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/默认标题_方形二维码_2019-11-28-0.png" style="zoom:150%;" />
-
-### 成员列表
-
-<a href="https://github.com/Snailclimb">
-    <img src="https://avatars1.githubusercontent.com/u/29880145?s=460&v=4" width="45px">
-</a>
-
-<a href="https://github.com/zhangjia">
-    <img src="https://avatars3.githubusercontent.com/u/30466440?s=460&v=4" width="45px">
-</a>
