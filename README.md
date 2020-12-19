@@ -5,7 +5,8 @@
 1. 公众号 ： [JavaGuide](#公众号) （最新原创文章+免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源）
 2. B 站：[Guide 哥](https://space.bilibili.com/504390397) （各种干货视频和生活向视频，来个一键三连可好！）
 
-<p align="center"> <img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/logo.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
+<p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
+
 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 🙏。
 
 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
