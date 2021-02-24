@@ -312,13 +312,14 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 日志系统
 
-实际项目中使用 ELK 三件套（Elasticsearch，Logstash，Kibana）来做日志系统的非常多。
+- **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
+- **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
+- **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
 
-另外，像 Prometheus + Grafana 也是比较主流的，相关阅读：[Prometheus + Grafana 监控配置指北：打造专属监控系统](https://counter2015.com/2020/04/13/grafana-monitor-2/) 。
+### HTTP 客户端
 
-1. **[loki](https://github.com/grafana/loki)** ： `Loki`是 Grafana Labs 团队最新的开源项目，是一个水平可扩展，高可用性，多租户的日志聚合系统。它的设计非常经济高效且易于操作，因为它不会为日志内容编制索引，而是为每个日志流编制一组标签。项目受 Prometheus 启发，官方的介绍就是：`Like Prometheus, but for logs.`，类似于 Prometheus 的日志系统。相关阅读：
-   - [Loki 日志系统](https://www.cnblogs.com/xiao987334176/p/13187473.html)
-   - [使用 Loki 进行日志监控和报警](https://www.qikqiak.com/post/use-loki-monitor-alert/)
+1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
+2. **[Forest](https://gitee.com/dt_flys/forest)**  ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
 
 ### 开放平台(如微信)
 
