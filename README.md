@@ -47,8 +47,9 @@
     - [框架](#框架)
   - [大数据](#大数据-1)
   - [日志系统](#日志系统)
-  - [开放平台(如微信)](#开放平台如微信)
+  - [HTTP客户端](#http客户端)
   - [测试](#测试)
+  - [开放平台(如微信)](#开放平台如微信)
   - [机器学习](#机器学习)
 - [Devpos](#devpos)
   - [CI](#ci)
@@ -316,14 +317,10 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 - **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
 - **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
 
-### HTTP 客户端
+### HTTP客户端
 
 1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
 2. **[Forest](https://gitee.com/dt_flys/forest)**  ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
-
-### 开放平台(如微信)
-
-1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
 ### 测试
 
@@ -338,6 +335,10 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
+
+### 开放平台(如微信)
+
+1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
 
 ### 机器学习
 
