@@ -1,7 +1,4 @@
-**关于作者：**
-
-1. 公众号 ： [JavaGuide](#公众号) （最新原创文章+免费领取本文档配套的《Java 面试突击》以及 Java 工程师必备学习资源）
-2. B 站：[Guide 哥](https://space.bilibili.com/504390397) （各种干货视频和生活向视频，来个一键三连可好！）
+👍推荐:PDF 版本在[公众号 JavaGuide](#公众号) 后台回复“开源”即可获取！
 
 <p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
@@ -407,4 +404,4 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 公众号
 
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/默认标题_方形二维码_2019-11-28-0.png" style="zoom:150%;" />
+![我的公众号](https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images/2020-08/167598cd2e17b8ec.png)
