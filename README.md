@@ -300,8 +300,18 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
 2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
-3. **[canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
+3. **[Canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
 4. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
+
+### 日志系统
+
+- **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
+- **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
+- **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
+
+### 监控中心
+
+- **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
 
 ### 大数据
 
@@ -310,12 +320,6 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
 4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
 5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
-
-### 日志系统
-
-- **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
-- **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
-- **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
 
 ### HTTP客户端
 
