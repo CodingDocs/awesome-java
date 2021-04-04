@@ -264,6 +264,14 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 - **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
 
+### 大数据
+
+1. **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
+2. **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
+3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
+4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
+5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
+
 ### HTTP客户端
 
 1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
@@ -283,7 +291,25 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
 
-## 代码质量&常用工具类
+### 机器学习
+
+1. **[Deeplearning4j](https://github.com/eclipse/deeplearning4j)** ： Deeplearning4j 是第一个为 Java 和 Scala 编写的商业级，开源，分布式深度学习库。
+2. **[Smile](https://github.com/haifengl/smile)** ：基于 Java 和 Scala 的机器学习库。
+
+相关阅读：
+
+1. [Java 能用于机器学习和数据科学吗？-InfoQ](https://www.infoq.cn/article/GA9UeYlv8ohBzBso9eph)
+2. [Deeplearning4j 入门 - IBM Developer](https://developer.ibm.com/zh/technologies/artificial-intelligence/articles/cc-get-started-deeplearning4j/)
+
+## Devpos
+
+### CI
+
+1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
+
+## 工具
+
+### 常用工具类/代码质量
 
 1. **[lombok](https://github.com/rzwitserloot/lombok)** :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals 等方法。
 2. **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
@@ -296,18 +322,6 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 9. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
 10. **[oshi](https://github.com/oshi/oshi "oshi")** ：一款为 Java 语言提供的基于 JNA 的（本机）操作系统和硬件信息库。
 
-## Devpos
-
-### CI
-
-1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
-
-## 工具
-
-### 开发必备
-
-1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除sentinel）、管理、告警以及基本的数据操作功能
-
 ### Excel
 
 1. **[easyexcel](https://github.com/alibaba/easyexcel)** :快速、简单避免 OOM 的 java 处理 Excel 工具。
@@ -319,36 +333,20 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7 代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
 4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是 PDF。
 
-### API 请求
+### 开发必备
+
+#### API 请求
 
 1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
 2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
 3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
-### Markdown
+#### Markdown
 
 1. **[Typora](https://www.typora.io/)** :我一直用的一款 Markdown 工具，直接文件夹试图和目录试图，支持 Markdown 格式直接导出成 PDF、HTML 等格式。
 2. **[markdown-here](https://github.com/adam-p/markdown-here)** ：使用 markdown 语法发邮件，并且提供多种主题，快来拯救你的邮件格式吧！
 
-## 大数据
-
-1. **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
-2. **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
-3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
-4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
-5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
-
-## 机器学习
-
-1. **[Deeplearning4j](https://github.com/eclipse/deeplearning4j)** ： Deeplearning4j 是第一个为 Java 和 Scala 编写的商业级，开源，分布式深度学习库。
-2. **[Smile](https://github.com/haifengl/smile)** ：基于 Java 和 Scala 的机器学习库。
-
-相关阅读：
-
-1. [Java 能用于机器学习和数据科学吗？-InfoQ](https://www.infoq.cn/article/GA9UeYlv8ohBzBso9eph)
-2. [Deeplearning4j 入门 - IBM Developer](https://developer.ibm.com/zh/technologies/artificial-intelligence/articles/cc-get-started-deeplearning4j/)
-
-## 其他
+### 其他
 
 1. **[ip2region](https://github.com/lionsoul2014/ip2region)** :最自由的 ip 地址查询库，ip 到地区的映射库，提供 Binary,B 树和纯内存三种查询算法，妈妈再也不用担心我的 ip 地址定位。
 2. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
