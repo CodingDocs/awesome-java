@@ -46,9 +46,10 @@
 
 1. **[springboot-guide](https://github.com/Snailclimb/springboot-guide)** ：SpringBoot 核心知识点总结。 基于 Spring Boot 2.19+。
 2. **[SpringAll](https://github.com/wuyouzhuguli/SpringAll "SpringAll")** ：循序渐进，学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码。
-3. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
-4. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
-5. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
+3. **[Springboot-Notebook](https://github.com/chengxy-nds/Springboot-Notebook)** :一系列以 Spring Boot 为基础开发框架，整合 Redis 、 Rabbitmq 、ES 、MongoDB 、Spring Cloud、Kafka、Skywalking等互联网主流技术，实现各种常见功能点的综合性案例。
+4. **[springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example "springboot-learning-example")** ：Spring Boot 实践学习案例，是 Spring Boot 初学者及核心技术巩固的最佳实践。
+5. **[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo "spring-boot-demo")** ：spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 63 个集成 demo，已经完成 52 个。
+6. **[SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)** ：Spring Boot 系列教程。
 
 相关文章：[Github 点赞接近 100k 的 SpringBoot 学习教程+实战推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488298&idx=3&sn=0a8fd88ec5a050de131c2a3305482ac4&chksm=cea25ce1f9d5d5f7f53a0237d27489326bce4546353b038085c03b086d91ef396bf824d3a155&token=496868067&lang=zh_CN#rd)
 
