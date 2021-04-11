@@ -8,6 +8,9 @@
 
 如果有码云上比较好的项目的话，我也会推荐到这里来！另外，我也会推荐少部分过于优秀但是非开源的优质 Java 项目。
 
+- Github地址：[https://github.com/CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
+- 码云地址：[https://gitee.com/SnailClimb/awesome-java](https://gitee.com/SnailClimb/awesome-java)（Github无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
+
 
 ## 教程
 
