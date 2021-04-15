@@ -132,21 +132,33 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 ## 系统设计
 
-### 微服务/分布式
+### 数据库
+
+#### 连接池
+
+1. **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
+
+#### 缓存
+
+- **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
+
+#### 框架
+
+1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
+
+### 数据同步
+
+1. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
+2. **[Canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
+
+### 微服务&分布式
 
 #### 基础框架
 
 1. **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
 2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot  ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC框架）、SOFABolt（基于Netty的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
 3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
-
-#### Spring Cloud Alibaba
-
-1. **[Sentinel](https://github.com/alibaba/Sentinel "Sentinel")** ：A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)。
-2. **[Dubbo](https://github.com/apache/dubbo "dubbo")** ：Apache Dubbo 是一个基于 Java 的高性能开源 RPC 框架。
-3. **[Nacos](https://github.com/alibaba/nacos "nacos")** ：Nacos 致力于帮助您发现、配置和管理微服务。Nacos 提供了一组简单易用的特性集，帮助您快速实现动态服务发现、服务配置、服务元数据及流量管理。Nacos 可以作为 Dubbo 的注册中心来使用。
-4. **[Seata](https://github.com/seata/seata "seata")** : Seata 是一种易于使用，高性能，基于 Java 的开源分布式事务解决方案。
-5. **[RocketMQ](https://github.com/apache/rocketmq "RocketMQ")** ：阿里巴巴开源的一款高性能、高吞吐量的分布式消息中间件。
 
 #### API 网关
 
@@ -185,15 +197,37 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 相关阅读： [Skywalking 官网对于主流开源链路追踪系统的对比](https://skywalking.apache.org/zh/blog/2019-03-29-introduction-of-skywalking-and-simple-practice.html)
 
-#### 消息中间件
+
+
+### 高并发
+
+#### 消息队列
 
 我们可以把消息队列比作是一个存放消息的容器，当我们需要使用消息的时候可以取出消息供自己使用。
 
 使用消息队列主要有两点好处：**一是通过异步处理提高系统性能（削峰、减少响应所需时间）；二是降低系统耦合性。**
 
+**分布式队列** ：
+
 1. **[RocketMQ](https://github.com/apache/rocketmq "RocketMQ")** ：阿里巴巴开源的一款高性能、高吞吐量的分布式消息中间件。
 2. **[Kafaka](https://github.com/apache/kafka "Kafaka")**: Kafka 是一种分布式的，基于发布 / 订阅的消息系统。关于它的入门可以查看：[Kafka 入门看这一篇就够了](https://github.com/Snailclimb/JavaGuide/blob/master/docs/system-design/data-communication/Kafka入门看这一篇就够了.md "Kafka入门看这一篇就够了")
 3. **[RabbitMQ](https://github.com/rabbitmq "RabbitMQ")** :由 erlang 开发的基于 AMQP（Advanced Message Queue 高级消息队列协议）协议实现的消息队列。
+
+**内存队列** ：
+
+1. **[Disruptor](https://github.com/LMAX-Exchange/disruptor)**  ： Disruptor是英国外汇交易公司LMAX开发的一个高性能队列，研发的初衷是解决内存队列的延迟问题（在性能测试中发现竟然与I/O操作处于同样的数量级）。相关阅读 ：
+   - [《高性能内存队列——Disruptor》](https://tech.meituan.com/2016/11/18/disruptor.html) 
+   - [《你应该知道的高性能无锁队列Disruptor》](https://juejin.cn/post/6844903648875528206)
+
+#### 数据源&读写分离&分库分表
+
+数据库的数据量大了之后就要考虑读写分离、分库分表，但是一定要尽量能避免分库分表就避免，因为会带来很多其他问题。
+
+1. **[ShardingSphere](https://github.com/apache/shardingsphere)** ：ShardingSphere 是一套开源的分布式数据库中间件解决方案组成的生态圈，它由 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar（计划中）这 3 款相互独立的产品组成。 他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如 Java 同构、异构语言、云原生等各种多样化的应用场景。中文文档：[https://shardingsphere.apache.org/document/current/cn/overview/](https://shardingsphere.apache.org/document/current/cn/overview/) 。
+2. **[MyCat](https://github.com/MyCatApache/MyCat2)** : MyCat 是数据库分库分表的中间件，MyCat 使用最多的两个功能是：读写分离和分库分表。MyCat 是一些社区爱好者在阿里 Cobar 的基础上进行二次开发，解决了 Cobar 当时存 在的一些问题，并且加入了许多新的功能在其中。
+3. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
+
+相关阅读：[数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 
 ### 任务调度/定时任务
 
@@ -225,33 +259,6 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. **[Elasticsearch](https://github.com/elastic/elasticsearch "elasticsearch")**：开源，分布式，RESTful 搜索引擎。
 2. **[Solr](https://lucene.apache.org/solr/)** : Solr（读作“solar”）是 Apache Lucene 项目的开源企业搜索平台。
-
-### 数据库
-
-#### 连接池
-
-1. **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
-2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
-
-#### 数据库中间件
-
-数据库的数据量大了之后就要考虑读写分离、分库分表，但是一定要尽量能避免分库分表就避免，因为会带来很多其他问题。
-
-1. **[ShardingSphere](https://github.com/apache/shardingsphere)** ：ShardingSphere 是一套开源的分布式数据库中间件解决方案组成的生态圈，它由 Sharding-JDBC、Sharding-Proxy 和 Sharding-Sidecar（计划中）这 3 款相互独立的产品组成。 他们均提供标准化的数据分片、分布式事务和数据库治理功能，可适用于如 Java 同构、异构语言、云原生等各种多样化的应用场景。中文文档：[https://shardingsphere.apache.org/document/current/cn/overview/](https://shardingsphere.apache.org/document/current/cn/overview/) 。
-2. **[MyCat](https://github.com/MyCatApache/MyCat2)** : MyCat 是数据库分库分表的中间件，MyCat 使用最多的两个功能是：读写分离和分库分表。MyCat 是一些社区爱好者在阿里 Cobar 的基础上进行二次开发，解决了 Cobar 当时存 在的一些问题，并且加入了许多新的功能在其中。
-
-相关阅读：[数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
-
-#### Redis
-
-1. **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）。支持超过 30 个对象和服务:Set, multiap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC。[Redisson 项目介绍](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
-
-#### 框架
-
-1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
-2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
-3. **[Canal](https://github.com/alibaba/canal "canal")** : **canal [kə'næl]**，译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费
-4. **[dynamic-datasource-spring-boot-starter](https://github.com/baomidou/dynamic-datasource-spring-boot-starter])** ：dynamic-datasource-spring-boot-starter 是一个基于 springboot 的快速集成多数据源的启动器。如果说你有配置多数据源、读写分离等需求的话，可以了解一下这个项目。
 
 ### 认证授权
 
