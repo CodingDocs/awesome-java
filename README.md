@@ -75,7 +75,7 @@
 
 _Guide 哥注：下面这些推荐的项目几乎都和 Spring Boot 有关，毕竟这年头没有理由再搞 SSM/SSH 这些东西了。_
 
-### 商城系统
+### 商城
 
 _Guide 哥注：下面的商城系统大多比较复杂比如 mall ,如果没有 Java 基础和 Spring Boot 都还没有摸熟的话不推荐过度研究下面几个项目或者使用这些项目当作毕业设计。_
 
@@ -86,7 +86,7 @@ _Guide 哥注：下面的商城系统大多比较复杂比如 mall ,如果没有
 5. **[xmall](https://github.com/Exrick/xmall)** :基于 SOA 架构的分布式电商购物商城 前后端分离 前台商城:Vue 全家桶 后台管理系统:Spring/Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper 等
 6. **[newbee-mall](https://github.com/newbee-ltd/newbee-mall)** :newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。
 
-### 博客/论坛/考试系统/其他
+### 博客/论坛/考试系统
 
 _Guide 哥注：下面这几个项目都是非常适合 Spring Boot 初学者学习的，下面的大部分项目的总体代码架构我都看过，个人觉得还算不错，不会误导没有实际做过项目的老哥，特别是前两个项目 vhr 和 favorites-web 。_
 
@@ -114,16 +114,16 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 ### 快速开发脚手架
 
-1. **[ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)** ： 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统。
 2. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
+2. **[ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)** ： 基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统。
 3. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。Guns 功能齐全 ，采用主流框架 Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。
 4. **[SpringBlade](https://gitee.com/smallc/SpringBlade)** ：SpringBlade 是一个由商业级项目升级优化而来的 SpringCloud 分布式微服务架构、SpringBoot 单体式微服务架构并存的综合型项目，采用 Java8 API 重构了业务代码，完全遵循阿里巴巴编码规范。采用 Spring Boot 2 、Spring Cloud Hoxton 、Mybatis 等核心技术，同时提供基于 React 和 Vue 的两个前端框架用于快速搭建企业级的 SaaS 多租户微服务平台。
 5. **[renren](https://www.renren.io/)** ： renren 下面一共开源了两个 Java 项目开发脚手架：①renren-security :采用 Spring、MyBatis、Shiro 框架，开发的一套轻量级权限系统，极低门槛，拿来即用。②renren-fast : 一个轻量级的 Java 快速开发平台，能快速开发项目并交付【接私活利器】
-6. **[COLA](https://github.com/alibaba/COLA)** ：根据我的了解来看，很多公司的项目都是基于 COLA 进行开发的，相比于其他快速开发脚手架，COLA 并不提供什么已经开发好的功能，它提供的主要是一个干净的架构，然后你可以在此基础上进行开发。通过一行命令就生成好的 web 后端项目骨架。
-7. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
-8. **[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
-9. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
-10. **[erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO等。
+6. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
+7. **[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
+8. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
+9. **[erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO等。
+10. **[SmartAdmin](https://gitee.com/lab1024/smart-admin)** : 互联网企业级的通用型中后台解决方案！使用最前沿的前后台技术栈SpringBoot和Vue，前后端分离!代码质量非常高！
 
 **相关文章** ：
 
@@ -286,10 +286,16 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 为了能让我们编写的系统更加健壮，必要的测试（UI 测试、单元测试...）是必须的。
 
+**框架** :
+
 1. **[JUnit](http://junit.org/)** : Java 测试框架。
 2. **[Mockito](https://github.com/mockito/mockito)** ：Mockito 是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
 3. **[PowerMock](https://github.com/powermock/powermock)** ： 编写单元测试仅靠 Mockito 是不够。因为 Mockito 无法 mock 私有方法、final 方法及静态方法等。PowerMock 这个 framework，主要是为了扩展其他 mock 框架，如 Mockito、EasyMock。它使用一个自定义的类加载器，纂改字节码，突破 Mockito 无法 mock 静态方法、构造方法、final 类、final 方法以及私有方法的限制。
 4. **[WireMock](https://github.com/tomakehurst/wiremock)** ：模拟 HTTP 服务的工具（Mock your APIs）。
+
+**测试平台** ：
+
+- **[MeterSphere](https://github.com/metersphere/metersphere)** : 一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
 
 相关阅读：
 
