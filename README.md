@@ -116,13 +116,12 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 2. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
 3. **[ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)** ： 基于 SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统。
 4. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。Guns 功能齐全 ，采用主流框架 Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。
-5. **[SpringBlade](https://gitee.com/smallc/SpringBlade)** ：SpringBlade 是一个由商业级项目升级优化而来的 SpringCloud 分布式微服务架构、SpringBoot 单体式微服务架构并存的综合型项目，采用 Java8 API 重构了业务代码，完全遵循阿里巴巴编码规范。采用 Spring Boot 2 、Spring Cloud Hoxton 、Mybatis 等核心技术，同时提供基于 React 和 Vue 的两个前端框架用于快速搭建企业级的 SaaS 多租户微服务平台。
-6. **[renren](https://www.renren.io/)** ： renren 下面一共开源了两个 Java 项目开发脚手架：①renren-security :采用 Spring、MyBatis、Shiro 框架，开发的一套轻量级权限系统，极低门槛，拿来即用。②renren-fast : 一个轻量级的 Java 快速开发平台，能快速开发项目并交付【接私活利器】
-7. **[generator-jhipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
-8. **[jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
+7. **[JHipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
+8. **[JeecgBoot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
 9. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
-10. **[erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式 API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO 等。
+10. **[Erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式 API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO 等。
 11. **[SmartAdmin](https://gitee.com/lab1024/smart-admin)** : 互联网企业级的通用型中后台解决方案！使用最前沿的前后台技术栈 SpringBoot 和 Vue，前后端分离!代码质量非常高！
+10. **[BallCat](https://github.com/ballcat-projects/ballcat)** ：一个功能完善的快速开发脚手架！除了最基本的权限管理，定时任务功能之外，还额外支持 XSS过滤，SQL防注入、数据脱敏等多种功能
 
 **相关文章** ：
 
@@ -262,7 +261,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 ### 认证授权
 
 1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
-2. **[sa-token](https://github.com/dromara/sa-token)** ：这可能是史上功能最全的 Java 权限认证框架！目前已集成——登录验证、权限验证、Session 会话、踢人下线、分布式会话、单点登录、OAuth2.0、记住我模式、模拟他人账号、临时身份切换、集成 Redis、多账号认证体系、前后台分离模式、注解式鉴权、路由拦截式鉴权、花式 token 生成、自动续签、同端互斥登录、会话治理、密码加密、jwt 集成、Spring 集成...
+2. **[Sa-Token](https://github.com/dromara/sa-token)** ：轻量级Java权限认证框架。支持认证授权、单点登录、踢人下线、自动续签等功能。
 3. **[JustAuth](https://github.com/justauth/JustAuth)** ：小而全而美的第三方登录开源组件。目前已经集成了诸如：Github、Gitee、支付宝、新浪微博、微信、Google、Facebook、Twitter、StackOverflow 等国内外数十家第三方平台。
 
 ### 日志
