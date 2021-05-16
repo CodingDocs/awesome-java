@@ -116,12 +116,12 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 2. **[RuoYi](https://gitee.com/y_project/RuoYi)** ：RuoYi 一款基于基于 SpringBoot 的权限管理系统 易读易懂、界面简洁美观，直接运行即可用 。
 3. **[ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)** ： 基于 SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统。
 4. **[Guns](https://gitee.com/stylefeng/guns)** ： 我在上大学的时候就了解和接触过了这个项目，当时我还是一个 Spring 入门不太久的小菜鸟。一晃，不经意间已经过去快 3 年了。Guns 功能齐全 ，采用主流框架 Spring Boot2.0+开发，并且支持 Spring Cloud Alibaba 微服务）。 适合企业后台管理网站的快速开发场景，不论是对于单体和微服务都有支持。
-7. **[JHipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
-8. **[JeecgBoot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
-9. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
-10. **[Erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式 API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO 等。
-11. **[SmartAdmin](https://gitee.com/lab1024/smart-admin)** : 互联网企业级的通用型中后台解决方案！使用最前沿的前后台技术栈 SpringBoot 和 Vue，前后端分离!代码质量非常高！
-10. **[BallCat](https://github.com/ballcat-projects/ballcat)** ：一个功能完善的快速开发脚手架！除了最基本的权限管理，定时任务功能之外，还额外支持 XSS过滤，SQL防注入、数据脱敏等多种功能
+5. **[JHipster](https://github.com/jhipster/generator-jhipster)** :开源应用程序平台，可在几秒钟内创建 Spring Boot + Angular / React 项目！
+6. **[JeecgBoot](https://github.com/zhangdaiscott/jeecg-boot)** :一款基于代码生成器的 JAVA 快速开发平台，开源界“小普元”超越传统商业企业级开发平台！
+7. **[zuihou-admin-cloud](https://github.com/zuihou/zuihou-admin-cloud)** :基于`SpringCloud(Hoxton.SR7)` + `SpringBoot(2.2.9.RELEASE)` 的 SaaS 型微服务快速开发平台，具备用户管理、资源权限管理、网关统一鉴权、Xss 防跨站攻击、自动代码生成、多存储系统、分布式事务、分布式定时任务等多个模块，支持多业务系统并行开发， 支持多服务并行开发，可以作为后端服务的开发脚手架。
+8. **[Erupt](https://gitee.com/erupt/erupt)** : 使用 Java 注解，快速开发 Admin 管理后台。零前端代码、零 CURD、不生成任何代码、自动建表、注解式 API，支持所有主流数据库，支持自定义页面，支持多数据源，提供二十几类业务组件，十几种展示形式，支持逻辑删除，动态定时任务，前端后端分离等。 核心技术：Spring Boot、JPA、Reflect、TypeScript、NG-ZORRO 等。
+9. **[SmartAdmin](https://gitee.com/lab1024/smart-admin)** : 互联网企业级的通用型中后台解决方案！使用最前沿的前后台技术栈 SpringBoot 和 Vue，前后端分离!代码质量非常高！
+10. **[BallCat](https://github.com/ballcat-projects/ballcat)** ：一个功能完善的快速开发脚手架！除了最基本的权限管理，定时任务功能之外，还额外支持 XSS 过滤，SQL 防注入、数据脱敏等多种功能
 
 **相关文章** ：
 
@@ -261,7 +261,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 ### 认证授权
 
 1. **[WxJava](https://github.com/Wechat-Group/WxJava)** : WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发。
-2. **[Sa-Token](https://github.com/dromara/sa-token)** ：轻量级Java权限认证框架。支持认证授权、单点登录、踢人下线、自动续签等功能。
+2. **[Sa-Token](https://github.com/dromara/sa-token)** ：轻量级 Java 权限认证框架。支持认证授权、单点登录、踢人下线、自动续签等功能。
 3. **[JustAuth](https://github.com/justauth/JustAuth)** ：小而全而美的第三方登录开源组件。目前已经集成了诸如：Github、Gitee、支付宝、新浪微博、微信、Google、Facebook、Twitter、StackOverflow 等国内外数十家第三方平台。
 
 ### 日志
@@ -324,7 +324,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 ### 开发必备
 
 1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
-2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理Docker和Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
+2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
 
 ### Excel
 
