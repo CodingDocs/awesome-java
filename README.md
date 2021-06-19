@@ -266,20 +266,24 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 日志
 
-- **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
-- **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
-- **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
-- **[TLog](https://gitee.com/dromara/TLog)** ：一个轻量级的分布式日志标记追踪神器，10 分钟即可接入，自动对日志打标签完成微服务的链路追踪。
+1. **EKL 老三件套** : 最原始的时候，ELK 是由 3 个开源项目的首字母构成，分别是 **E**lasticsearch 、**L**ogstash、**K**ibana。
+2. **新一代 ELK 架构** : Elasticsearch+Logstash+Kibana+Beats。
+3. **EFK** : EFK 中的 F 代表的是 [Fluentd](https://github.com/fluent/fluentd)。
+4. **[TLog](https://gitee.com/dromara/TLog)** ：一个轻量级的分布式日志标记追踪神器，10 分钟即可接入，自动对日志打标签完成微服务的链路追踪。
 
 ### 监控
 
-- **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
-- **[Metrics](https://github.com/dropwizard/metrics)** ：捕获**JVM**和应用程序级别的指标。所以你知道发生了什么事。
+1. **[Spring Boot Admin](https://github.com/codecentric/spring-boot-admin)** ：管理和监控 Spring Boot 应用程序。
+2. **[Metrics](https://github.com/dropwizard/metrics)** ：捕获**JVM**和应用程序级别的指标。所以你知道发生了什么事。
 
 ### HTTP 客户端
 
 1. **[Retrofit](https://github.com/square/retrofit)** ：适用于 Android 和 Java 的类型安全的 HTTP 客户端。Retrofit 的 HTTP 请求使用的是 [OkHttp](https://square.github.io/okhttp/) 库（一款被广泛使用网络框架）。
 2. **[Forest](https://gitee.com/dromara/forest)** ：轻量级 HTTP 客户端 API 框架，让 Java 发送 HTTP/HTTPS 请求不再难。它比 OkHttp 和 HttpClient 更高层，是封装调用第三方 restful api client 接口的好帮手，是 retrofit 和 feign 之外另一个选择。
+
+### WebSocket
+
+1. **[netty-websocket-spring-boot-starter](https://github.com/YeautyYE/netty-websocket-spring-boot-starter)** :帮助你在 Spring Boot 中使用 Netty 来开发 WebSocket 服务器，并像 spring-websocket 的注解开发一样简单
 
 ### 测试
 
