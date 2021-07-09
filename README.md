@@ -38,6 +38,7 @@
 3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
 4. **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
 5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从 0 到 1 系统学习算法和数据结构。
+6. **[algorithm-base](https://github.com/chefyuan/algorithm-base)** ：专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
 ### 计算机基础
 
