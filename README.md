@@ -38,10 +38,11 @@
 9. **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)** ：后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
 10. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
 11. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
-12. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-13. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
-14. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
-15. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
+12. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的Java程序员的系列教程。
+13. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+14. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
+15. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
+16. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
 
 ### 数据结构/算法
 
