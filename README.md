@@ -150,6 +150,12 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 ## 系统设计
 
+### 基础框架
+
+- **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项 目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
+- **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC 框架）、SOFABolt（基于 Netty 的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
+- [**Spring Batch**](https://github.com/spring-projects/spring-batch) : Spring Batch是一个轻量级但功能又十分全面的批处理框架，主要用于批处理场景比如从数据库、文件或队列中读取大量记录。不过，需要注意的是：**Spring Batch 不是调度框架**。商业和开源领域都有许多优秀的企业调度框架比如 Quartz、XXL-JOB、Elastic-Job。它旨在与调度程序一起工作，而不是取代调度程序。更多介绍请参考 [Spring Batch 官方文档](https://docs.spring.io/spring-batch/docs/4.3.x/reference/html/spring-batch-intro.html#spring-batch-intro)，入门教程可以参考 [Spring Batch从入门到实战](https://mrbird.cc/Spring-Batch入门.html)。
+
 ### 数据库
 
 #### 连接池
@@ -174,12 +180,6 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 ### 微服务&分布式
 
-#### 基础框架
-
-1. **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
-2. **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC 框架）、SOFABolt（基于 Netty 的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
-3. **[spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba "spring-cloud-alibaba")** : Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。此项目包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
-
 #### API 网关
 
 微服务下一个系统被拆分为多个服务，但是像 安全认证，流量控制，日志，监控等功能是每个服务都需要的，没有网关的话，我们就需要在每个服务中单独实现，这使得我们做了很多重复的事情并且没有一个全局的视图来统一管理这些功能。
@@ -199,11 +199,10 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 传统的配置文件的方式已经无法满足当前需求，主要有两点原因：一是**安全性得不到保障**（配置放在代码库中容易泄露）；二是**时效性不行** （修改配置需要重启服务才能生效）。
 
-除了 Apollo 和 Spring Cloud Config 之外，Spring Cloud Alibaba 中的 Nacos 组件也可以提高配置功能。
-
-3. **[Apollo](https://github.com/ctripcorp/apollo "apollo")** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
-4. **[Spring Cloud Config](https://github.com/spring-cloud/spring-cloud-config)** ： Spring Cloud Config 是 Spring Cloud 家族中最早的配置中心，虽然后来又发布了 Consul 可以代替配置中心功能，但是 Config 依然适用于 Spring Cloud 项目，通过简单的配置即可实现功能。
-5. **[Consul](https://github.com/hashicorp/consul)** ：Consul 是 HashiCorp 公司推出的开源软件，提供了微服务系统中的服务治理、配置中心、控制总线等功能。这些功能中的每一个都可以根据需要单独使用，也可以一起使用以构建全方位的服务网格，总之 Consul 提供了一种完整的服务网格解决方案。
+- **[Apollo](https://github.com/ctripcorp/apollo "apollo")** ：Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+- **[Nacos](https://github.com/alibaba/nacos)** ：Nacos 是 Spring Cloud Alibaba 提供的服务注册发现组件，类似于 Consul、Eureka。并且，提供了分布式配置管理功能。
+- **[Spring Cloud Config](https://github.com/spring-cloud/spring-cloud-config)** ： Spring Cloud Config 是 Spring Cloud 家族中最早的配置中心，虽然后来又发布了 Consul 可以代替配置中心功能，但是 Config 依然适用于 Spring Cloud 项目，通过简单的配置即可实现功能。
+- **[Consul](https://github.com/hashicorp/consul)** ：Consul 是 HashiCorp 公司推出的开源软件，提供了微服务系统中的服务治理、配置中心、控制总线等功能。这些功能中的每一个都可以根据需要单独使用，也可以一起使用以构建全方位的服务网格，总之 Consul 提供了一种完整的服务网格解决方案。
 
 相关阅读：[微服务架构中配置中心的选择：Apollo VS Spring Cloud Config](https://www.jianshu.com/p/d78fa8412cbf)
 
