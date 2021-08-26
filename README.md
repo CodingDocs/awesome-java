@@ -355,10 +355,14 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
 3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
+### 验证码
+
+- **[EasyCaptcha](https://gitee.com/whvse/EasyCaptcha)**  ：Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+- **[AJ-Captcha](https://gitee.com/anji-plus/captcha)** ：行为验证码(滑动拼图、点选文字)，前后端(java)交互。
+
 ### 其他
 
 - **[oshi](https://github.com/oshi/oshi "oshi")** ：一款为 Java 语言提供的基于 JNA 的（本机）操作系统和硬件信息库。
-- **[AJ-Captcha](https://gitee.com/anji-plus/captcha)** ：行为验证码(滑动拼图、点选文字)，前后端(java)交互。
 
 ## Devpos
 
