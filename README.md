@@ -324,31 +324,19 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
 
-## 代码质量&常用工具类
+## 工具类库
 
-1. **[lombok](https://github.com/rzwitserloot/lombok)** :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals 等方法。
-2. **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
-3. **[p3c](https://github.com/alibaba/p3c "p3c")** ：Alibaba Java Coding Guidelines pmd implements and IDE plugin。Eclipse 和 IDEA 上都有该插件，推荐使用！
-4. **[arthas](https://github.com/alibaba/arthas "arthas")** ： Arthas 是 Alibaba 开源的 Java 诊断工具。
-5. **[sonarqube](https://github.com/SonarSource/sonarqube "sonarqube")** ：SonarQube 支持所有开发人员编写更干净，更安全的代码。
-6. **[checkstyle](https://github.com/checkstyle/checkstyle "checkstyle")** :Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的 Java 代码。它使检查 Java 代码的过程自动化，从而使人们不必执行这项无聊（但很重要）的任务。这使其成为想要实施编码标准的项目的理想选择。
-7. **[pmd](https://github.com/pmd/pmd "pmd")** : 可扩展的多语言静态代码分析器。
-8. **[spotbugs](https://github.com/spotbugs/spotbugs "spotbugs")** :SpotBugs 是 FindBugs 的继任者。静态分析工具，用于查找 Java 代码中的错误。
-9. **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
-10. **[oshi](https://github.com/oshi/oshi "oshi")** ：一款为 Java 语言提供的基于 JNA 的（本机）操作系统和硬件信息库。
+### 代码质量
 
-## Devpos
-
-### CI
-
-1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
-
-## 工具
-
-### 开发必备
-
-1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
-2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
+- **[lombok](https://github.com/rzwitserloot/lombok)** :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals 等方法。
+- **[guava](https://github.com/google/guava "guava")** ：Guava 是一组核心库，其中包括新的集合类型（例如 multimap 和 multiset），不可变集合，图形库以及用于并发、I / O、哈希、原始类型、字符串等的实用程序！
+- **[p3c](https://github.com/alibaba/p3c "p3c")** ：Alibaba Java Coding Guidelines pmd implements and IDE plugin。Eclipse 和 IDEA 上都有该插件，推荐使用！
+- **[arthas](https://github.com/alibaba/arthas "arthas")** ： Arthas 是 Alibaba 开源的 Java 诊断工具。
+- **[sonarqube](https://github.com/SonarSource/sonarqube "sonarqube")** ：SonarQube 支持所有开发人员编写更干净，更安全的代码。
+- **[checkstyle](https://github.com/checkstyle/checkstyle "checkstyle")** :Checkstyle 是一种开发工具，可帮助程序员编写符合编码标准的 Java 代码。它使检查 Java 代码的过程自动化，从而使人们不必执行这项无聊（但很重要）的任务。这使其成为想要实施编码标准的项目的理想选择。
+- **[pmd](https://github.com/pmd/pmd "pmd")** : 可扩展的多语言静态代码分析器。
+- **[spotbugs](https://github.com/spotbugs/spotbugs "spotbugs")** :SpotBugs 是 FindBugs 的继任者。静态分析工具，用于查找 Java 代码中的错误。
+- **[hutool](https://github.com/looly/hutool "hutool")** : Hutool 是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。
 
 ### Excel
 
@@ -366,6 +354,24 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
 2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
 3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
+
+### 其他
+
+- **[oshi](https://github.com/oshi/oshi "oshi")** ：一款为 Java 语言提供的基于 JNA 的（本机）操作系统和硬件信息库。
+- **[AJ-Captcha](https://gitee.com/anji-plus/captcha)** ：行为验证码(滑动拼图、点选文字)，前后端(java)交互。
+
+## Devpos
+
+### CI
+
+1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
+
+## 工具
+
+### 开发必备
+
+1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
+2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
 
 ### Markdown
 
