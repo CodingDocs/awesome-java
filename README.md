@@ -4,7 +4,7 @@
 
 未来几年，希望持续完善自己开源的这些项目，争取能够帮助更多学习 Java 的小伙伴！共勉！凎！
 
-想要了解更多关于我的信息，[点击即可了解我的个人经历](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/mp/appmsgalbum%3F__biz%3DMzg2OTA0Njk0OA%3D%3D%26action%3Dgetalbum%26album_id%3D1323354342556057602%23wechat_redirect)。
+想要了解更多关于我的信息，[点击即可了解我的个人经历](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTA0Njk0OA==&action=getalbum&album_id=2019767912546336773#wechat_redirect)。
 
 你可以在下面这些平台找到我:
 
