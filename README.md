@@ -72,10 +72,8 @@
 ### SpringCloud
 
 1. **[SpringCloudLearning](https://github.com/forezp/SpringCloudLearning "SpringCloudLearning")** : 方志朋的《史上最简单的 Spring Cloud 教程源码》。
-2. **[SpringCloud-Learning](https://github.com/dyc87112/SpringCloud-Learning "SpringCloud-Learning")** : Spring Cloud 基础教程，持续连载更新中。
-3. **[spring-cloud](https://github.com/yinjihuan/spring-cloud "spring-cloud")** ： 《Spring Cloud 微服务-全栈技术与案例解析》和《Spring Cloud 微服务 入门 实战与进阶》配套源码。
-4. **[spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples "spring-cloud-examples")** ：Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等 （基本没更新了，Spring Cloud 比较老了）。
-5. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud "SpringCloud")** ：基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
+2. **[springcloud-learning](https://github.com/macrozheng/springcloud-learning)** : 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。
+3. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud "SpringCloud")** ：基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
 
 相关文章：[Github 点赞接近 70k 的 Spring Cloud 学习教程+实战项目推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488377&idx=1&sn=0fb33ef330159db5a9c8bc0f029cd739&chksm=cea25cb2f9d5d5a4c7bacc9dcfc90ed86e89f4262e32b40c7aa47af84c747cb6c0429f753e1d&token=496868067&lang=zh_CN#rd)
 
