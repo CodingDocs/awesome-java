@@ -1,19 +1,5 @@
 <p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
-我是 Guide哥，一个工作整整两年，接触编程已经 6 年有余的程序员。大三开源了[JavaGuide](https://github.com/Snailclimb/JavaGuide) （如果无法访问Github，可以访问国内的码云：[JavaGuide](https://gitee.com/SnailClimb/JavaGuide)），目前已经 100k+ Star。
-
-未来几年，希望持续完善自己开源的这些项目，争取能够帮助更多学习 Java 的小伙伴！共勉！凎！
-
-想要了解更多关于我的信息，[点击即可了解我的个人经历](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTA0Njk0OA==&action=getalbum&album_id=2019767912546336773#wechat_redirect)。
-
-你可以在下面这些平台找到我:
-
-- [哔哩哔哩@Guide哥](https://space.bilibili.com/504390397)
-- [知乎@JavaGuide](https://www.zhihu.com/people/javaguide)
-- [微信公众号@JavaGuide](https://www.yuque.com/docs/share/71251673-1fef-416e-93d7-489a25a9eda5?#)
-
-👉[我把学习 Java 必备的一些书籍的 PDF 版本统一分类整理了下来，需要的小伙伴可以自取](https://gitee.com/SnailClimb/awesome-cs#%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD) （百度云链接放在公众号，需要关注一波。不喜欢公众号内容的话，领取了资料之后取关即可）。 
-
 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 🙏。
 
 欢迎大家推荐自己觉得不错的 Java 项目，下面项目的排序很大程度是根据当前项目的 Star 数量。
@@ -22,6 +8,8 @@
 
 - Github 地址：[https://github.com/CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
 - 码云地址：[https://gitee.com/SnailClimb/awesome-java](https://gitee.com/SnailClimb/awesome-java)（Github 无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
+
+👉[我把学习 Java 必备的一些书籍的 PDF 版本统一分类整理了下来，需要的小伙伴可以自取](https://gitee.com/SnailClimb/awesome-cs#%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD) （百度云链接放在公众号，需要关注一波。不喜欢公众号内容的话，领取了资料之后取关即可）
 
 ## 教程
 
@@ -399,6 +387,4 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. **[ip2region](https://github.com/lionsoul2014/ip2region)** :最自由的 ip 地址查询库，ip 到地区的映射库，提供 Binary,B 树和纯内存三种查询算法，妈妈再也不用担心我的 ip 地址定位。
 2. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
-
-## 联系我
 
