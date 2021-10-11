@@ -9,7 +9,13 @@
 - Github 地址：[https://github.com/CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
 - 码云地址：[https://gitee.com/SnailClimb/awesome-java](https://gitee.com/SnailClimb/awesome-java)（Github 无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
 
+👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？](https://zhuanlan.zhihu.com/p/379041500) （原创不易，欢迎点赞，精简版学习路线正在路上），这是 2021 最新最完善的 Java 学习路线！
+
 👉[我把学习 Java 必备的一些书籍的 PDF 版本统一分类整理了下来，需要的小伙伴可以自取](https://gitee.com/SnailClimb/awesome-cs#%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD) （百度云链接放在公众号，需要关注一波。不喜欢公众号内容的话，领取了资料之后取关即可）
+
+### Sponsor
+
+![](https://snailclimb.gitee.io/javaguide/media/sponsor/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)
 
 ## 教程
 
@@ -26,7 +32,7 @@
 9. **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)** ：后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
 10. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
 11. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
-12. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的Java程序员的系列教程。
+12. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
 13. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 14. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
 15. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
@@ -60,7 +66,7 @@
 ### SpringCloud
 
 1. **[SpringCloudLearning](https://github.com/forezp/SpringCloudLearning "SpringCloudLearning")** : 方志朋的《史上最简单的 Spring Cloud 教程源码》。
-2. **[springcloud-learning](https://github.com/macrozheng/springcloud-learning)** : 一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。
+2. **[springcloud-learning](https://github.com/macrozheng/springcloud-learning)** : 一套涵盖大部分核心组件使用的 Spring Cloud 教程，包括 Spring Cloud Alibaba 及分布式事务 Seata，基于 Spring Cloud Greenwich 及 SpringBoot 2.1.7。22 篇文章，篇篇精华，32 个 Demo，涵盖大部分应用场景。
 3. **[SpringCloud](https://github.com/zhoutaoo/SpringCloud "SpringCloud")** ：基于 SpringCloud2.1 的微服务开发脚手架，整合了 spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway 等。服务治理方面引入 elasticsearch、skywalking、springboot-admin、zipkin 等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。
 
 相关文章：[Github 点赞接近 70k 的 Spring Cloud 学习教程+实战项目推荐！牛批！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247488377&idx=1&sn=0fb33ef330159db5a9c8bc0f029cd739&chksm=cea25cb2f9d5d5a4c7bacc9dcfc90ed86e89f4262e32b40c7aa47af84c747cb6c0429f753e1d&token=496868067&lang=zh_CN#rd)
@@ -140,7 +146,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 - **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项 目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
 - **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC 框架）、SOFABolt（基于 Netty 的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
-- [**Spring Batch**](https://github.com/spring-projects/spring-batch) : Spring Batch是一个轻量级但功能又十分全面的批处理框架，主要用于批处理场景比如从数据库、文件或队列中读取大量记录。不过，需要注意的是：**Spring Batch 不是调度框架**。商业和开源领域都有许多优秀的企业调度框架比如 Quartz、XXL-JOB、Elastic-Job。它旨在与调度程序一起工作，而不是取代调度程序。更多介绍请参考 [Spring Batch 官方文档](https://docs.spring.io/spring-batch/docs/4.3.x/reference/html/spring-batch-intro.html#spring-batch-intro)，入门教程可以参考 [Spring Batch从入门到实战](https://mrbird.cc/Spring-Batch入门.html)。
+- [**Spring Batch**](https://github.com/spring-projects/spring-batch) : Spring Batch 是一个轻量级但功能又十分全面的批处理框架，主要用于批处理场景比如从数据库、文件或队列中读取大量记录。不过，需要注意的是：**Spring Batch 不是调度框架**。商业和开源领域都有许多优秀的企业调度框架比如 Quartz、XXL-JOB、Elastic-Job。它旨在与调度程序一起工作，而不是取代调度程序。更多介绍请参考 [Spring Batch 官方文档](https://docs.spring.io/spring-batch/docs/4.3.x/reference/html/spring-batch-intro.html#spring-batch-intro)，入门教程可以参考 [Spring Batch 从入门到实战](https://mrbird.cc/Spring-Batch入门.html)。
 
 ### 数据库
 
@@ -151,11 +157,32 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 #### 缓存
 
+- **[Redis](https://github.com/redis/redis)** ：Redis 就是一个使用 C 语言开发的数据库，不过与传统数据库不同的是 Redis 的数据是存在内存中的 ，也就是它是内存数据库，所以读写速度非常快，因此 Redis 被广泛应用于缓存方向。另外，Redis 除了做缓存之外，也经常用来做分布式锁，甚至是消息队列。Redis 提供了多种数据类型来支持不同的业务场景。Redis 还支持事务 、持久化、Lua 脚本、多种集群方案。
 - **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
 
 #### 框架
 
 1. **[MyBatis-Plus](https://github.com/baomidou/mybatis-plus)** : [MyBatis-Plus](https://github.com/baomidou/mybatis-plus)（简称 MP）是一个 [MyBatis](http://www.mybatis.org/mybatis-3/) 的增强工具，在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
+
+#### 数据库建模
+
+- **[CHINER](https://gitee.com/robergroup/chiner)** ：开源免费的国产数据库建模工具。目标是做一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。前生是 [PDMan](https://gitee.com/robergroup/pdman)，定位为 PowerDesigner 的免费替代方案。
+
+开源的数据库建模工具比较少，以下是一些非开源的数据库建模工具（部分需要付费才能使用） :
+
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)** :  MySQL 官方为数据库架构师、开发人员和 DBA 提供的一个可视化工具。 MySQL Workbench 支持数据建模，SQL 开发以及服务器配置、用户管理、性能优化、数据库备份以及迁移等功能，支持 Windows、Linux 和 Mac OS X 平台。
+- **[Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler)** : 一款强大的和符合成本效益的数据库设计工具，它能帮助用户创建高质素的概念、逻辑和物理数据模型。让你可视化地设计数据库结构、执行逆向或正向工程程序、从 ODBC 数据源导入模型、生成复杂的 SQL/DDL 和打印模型到文件等。付费。
+- **[DbSchema](https://dbschema.com/)** : 一款功能强大的数据库设计和管理的可视化工具，支持几乎所有的关系型和 NoSQL 数据库。付费。
+- **[dbdiagram.io](https://dbdiagram.io/home)** :  是一款简单免费的在线 ER 图绘制工具，通过编写代码创建模型，专为开发人员和数据分析师而设计。它通过一个简单的自定义语言来生成数据模型，支持 MySQL、PostgreSQL、SQL Server 数据库 DDL 文件的正向工程和逆向工程、版本历史、在线共享、导出图片或者 PDF 等功能。dbdiagram.io 提供了免费版。
+
+#### 数据库管理
+
+- **[Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)** ：跨平台数据库管理工具，颜值高，支持 SQLite、MySQL、MariaDB、Postgres、CockroachDB、SQL Server、Amazon Redshift。
+- **[Sequel Pro](https://github.com/sequelpro/sequelpro)** ：适用于 macOS 的 MySQL/MariaDB 数据库管理工具。
+- **[DBeaver](https://github.com/dbeaver/dbeaver)** ：一个基于 Java 开发 ，并且支持几乎所有的数据库产品的开源数据库管理工具。DBeaver 社区版不光支持关系型数据库比如MySQL、PostgreSQL、MariaDB、SQLite、Oracle、Db2、SQL Server，还比如 SQLite、H2这些内嵌数据库。还支持常见的全文搜索引擎比如 Elasticsearch 和 Solr、大数据相关的工具比如Hive和 Spark。
+- **[Kangaroo](https://gitee.com/dbkangaroo/kangaroo)** ：袋鼠 是一款为热门数据库系统打造的管理客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的 SQL 工具。
+- **[Mongood](https://github.com/RenzHoly/Mongood)** :  MongoDB 图形化的管理工具。基于微软 Fluent UI，支持自动黑暗模式
+- 
 
 ### 数据同步
 
@@ -343,7 +370,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 验证码
 
-- **[EasyCaptcha](https://gitee.com/whvse/EasyCaptcha)**  ：Java图形验证码，支持gif、中文、算术等类型，可用于Java Web、JavaSE等项目。
+- **[EasyCaptcha](https://gitee.com/whvse/EasyCaptcha)** ：Java 图形验证码，支持 gif、中文、算术等类型，可用于 Java Web、JavaSE 等项目。
 - **[AJ-Captcha](https://gitee.com/anji-plus/captcha)** ：行为验证码(滑动拼图、点选文字)，前后端(java)交互。
 
 ### 其他
@@ -387,4 +414,3 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 1. **[ip2region](https://github.com/lionsoul2014/ip2region)** :最自由的 ip 地址查询库，ip 到地区的映射库，提供 Binary,B 树和纯内存三种查询算法，妈妈再也不用担心我的 ip 地址定位。
 2. **[thingsboard](https://github.com/thingsboard/thingsboard "thingsboard")** ：开源物联网平台 - 设备管理，数据收集，处理和可视化。
-
