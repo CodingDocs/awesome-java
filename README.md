@@ -31,21 +31,22 @@
 ### Java
 
 1. **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-2. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
-3. **[miaosha](https://github.com/qiurunze123/miaosha "miaosha")** ： 秒杀系统设计与实现.互联网工程师进阶与分析。
-4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
-5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
-6. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
-7. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
-8. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
-9. **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)** ：后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
-10. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
-11. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
-12. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
-13. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-14. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
-15. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
-16. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
+2. **[interview-guide](https://github.com/csguide-dabai/interview-guide)** ：总结了后端面试八股文中的重点，希望能帮助各位准备互联网开发岗校招面试的同学。
+3. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
+4. **[miaosha](https://github.com/qiurunze123/miaosha "miaosha")** ： 秒杀系统设计与实现.互联网工程师进阶与分析。
+5. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
+6. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
+7. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+8. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
+9. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
+10. **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)** ：后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
+11. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
+12. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
+13. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
+14. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+15. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
+16. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
+17. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
 
 ### 数据结构/算法
 
