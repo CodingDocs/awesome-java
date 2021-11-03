@@ -1,4 +1,4 @@
-👉 [免费送阿里云服务器！双11白嫖阿里云2核2g服务器一年（这个服务器平时的价格是 1020/年）！速度上车！！！朋友们！我找阿里云的朋友要的专属福利（顺便帮他完成KPI）。点击这个链接，可以了解如何参与以及活动的相关说明。](https://t.1yb.co/Ewon)
+👉 [阿里云双11服务器新人优惠，2核2g ，一年仅需58元！数量有限！速抢](https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1532&recordId=959605&userCode=hf47liqn)
 
 <p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
