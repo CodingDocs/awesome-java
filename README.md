@@ -15,18 +15,19 @@
 
 👉[我把学习 Java 必备的一些书籍的 PDF 版本统一分类整理了下来，需要的小伙伴可以自取](https://gitee.com/SnailClimb/awesome-cs#%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD) （百度云链接放在公众号，需要关注一波。不喜欢公众号内容的话，领取了资料之后取关即可）
 
-### Sponsor
+## Sponsor
 
 <table>
   <tbody>
     <tr>
        <td align="center" valign="middle">
         <a href="https://t.1yb.co/iskv">
-         <img src="https://snailclimb.gitee.io/javaguide/media/sponsor/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png" style="margin: 0 auto;width:850px" /></a>
+         <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
   </tbody>
 </table>
+
 
 ## 教程
 
@@ -174,7 +175,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 #### 缓存
 
 - **[Redis](https://github.com/redis/redis)** ：Redis 就是一个使用 C 语言开发的数据库，不过与传统数据库不同的是 Redis 的数据是存在内存中的 ，也就是它是内存数据库，所以读写速度非常快，因此 Redis 被广泛应用于缓存方向。另外，Redis 除了做缓存之外，也经常用来做分布式锁，甚至是消息队列。Redis 提供了多种数据类型来支持不同的业务场景。Redis 还支持事务 、持久化、Lua 脚本、多种集群方案。
-- **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")
+- **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")。
 
 #### 数据库建模
 
@@ -194,10 +195,6 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 - **[DBeaver](https://github.com/dbeaver/dbeaver)** ：一个基于 Java 开发 ，并且支持几乎所有的数据库产品的开源数据库管理工具。DBeaver 社区版不光支持关系型数据库比如MySQL、PostgreSQL、MariaDB、SQLite、Oracle、Db2、SQL Server，还比如 SQLite、H2这些内嵌数据库。还支持常见的全文搜索引擎比如 Elasticsearch 和 Solr、大数据相关的工具比如Hive和 Spark。
 - **[Kangaroo](https://gitee.com/dbkangaroo/kangaroo)** ：袋鼠 是一款为热门数据库系统打造的管理客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的 SQL 工具。
 - **[Mongood](https://github.com/RenzHoly/Mongood)** :  MongoDB 图形化的管理工具。基于微软 Fluent UI，支持自动黑暗模式。
-
-#### 分布式数据库
-
-- **[PolarDB-X](https://github.com/ApsaraDB/galaxysql)** ：PolarDB-X 是一款面向超高并发、海量存储、复杂查询场景设计的云原生分布式数据库系统。其采用 Shared-nothing 与存储计算分离架构，支持水平扩展、分布式事务、混合负载等能力，具备企业级、云原生、高可用、高度兼容 MySQL 系统及生态等特点。
 
 ### 数据同步
 
@@ -244,6 +241,10 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 相关阅读： [Skywalking 官网对于主流开源链路追踪系统的对比](https://skywalking.apache.org/zh/blog/2019-03-29-introduction-of-skywalking-and-simple-practice.html)
 
+#### 分布式数据库
+
+- **[PolarDB-X](https://github.com/ApsaraDB/galaxysql)** ：PolarDB-X 是一款面向超高并发、海量存储、复杂查询场景设计的云原生分布式数据库系统。其采用 Shared-nothing 与存储计算分离架构，支持水平扩展、分布式事务、混合负载等能力，具备企业级、云原生、高可用、高度兼容 MySQL 系统及生态等特点。
+
 ### 高并发
 
 #### 消息队列
@@ -263,6 +264,11 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 1. **[Disruptor](https://github.com/LMAX-Exchange/disruptor)** ： Disruptor 是英国外汇交易公司 LMAX 开发的一个高性能队列，研发的初衷是解决内存队列的延迟问题（在性能测试中发现竟然与 I/O 操作处于同样的数量级）。相关阅读 ：
    - [《高性能内存队列——Disruptor》](https://tech.meituan.com/2016/11/18/disruptor.html)
    - [《你应该知道的高性能无锁队列 Disruptor》](https://juejin.cn/post/6844903648875528206)
+
+消息队列管理工具 ：
+
+1. **[Kafdrop](https://github.com/obsidiandynamics/kafdrop)** : 一个用于查看 Kafka 主题和浏览消费者组的 Web UI。
+2. **[EFAK](https://github.com/smartloli/EFAK)** （Eagle For Apache Kafka，以前叫做 Kafka Eagle） ：一个简单的高性能监控系统，用于对 Kafka 集群进行全面的监控和管理。
 
 #### 数据源&读写分离&分库分表
 
@@ -402,7 +408,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### 开发必备
 
-1. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
+2. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
 2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
 3. **[Recaf](https://github.com/Col-E/Recaf)** ： Java 字节码编辑器，可简化编辑已编译 Java 应用程序的过程。
 
