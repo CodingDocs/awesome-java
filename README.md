@@ -1,4 +1,4 @@
-👉 [阿里云双11服务器新人优惠，2核2g ，一年仅需58元！数量有限！速抢](https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1532&recordId=959605&userCode=hf47liqn)
+👉 [阿里云双 11 服务器新人优惠，2 核 2g ，一年仅需 58 元！数量有限！速抢](https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1532&recordId=959605&userCode=hf47liqn)
 
 <p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
 
@@ -28,7 +28,6 @@
   </tbody>
 </table>
 
-
 ## 教程
 
 ### Java
@@ -36,20 +35,13 @@
 1. **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 2. **[interview-guide](https://github.com/csguide-dabai/interview-guide)** ：总结了后端面试八股文中的重点，希望能帮助各位准备互联网开发岗校招面试的同学。
 3. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
-4. **[miaosha](https://github.com/qiurunze123/miaosha "miaosha")** ： 秒杀系统设计与实现.互联网工程师进阶与分析。
-5. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
-6. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
-7. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
-8. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
-9. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
-10. **[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)** ：后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试。
-11. **[JavaFamily](https://github.com/AobingJava/JavaFamily "JavaFamily")** ：【互联网一线大厂面试+学习指南】进阶知识完全扫盲。
-12. **[JGrowing](https://github.com/javagrowing/JGrowing "JGrowing")** ：Java is Growing up but not only Java。Java 成长路线，但学到不仅仅是 Java。
-13. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
-14. **[interview_internal_reference](https://github.com/0voice/interview_internal_reference)** :2019 年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
-15. **[effective-java-3rd-chinese](https://github.com/sjsdfg/effective-java-3rd-chinese)**：Effective Java 中文版（第 3 版），Java 四大名著之一，本书一共包含 90 个条目，每个条目讨论 Java 程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
-16. **[OnJava8](https://github.com/LingCoder/OnJava8)**：《On Java 8》中文版，又名《Java 编程思想》第 5 版， Java 四大名著之一。
-17. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： Design patterns implemented in Java。
+4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
+5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
+6. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+7. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
+8. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
+9. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
+10. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： 用 Java 实现的设计模式。
 
 ### 数据结构/算法
 
@@ -88,6 +80,15 @@
 
 1. **[BigData-Notes](https://github.com/heibaiying/BigData-Notes "BigData-Notes")** :大数据入门指南 ⭐️。
 2. **[flink-learning](https://github.com/zhisheng17/flink-learning "flink-learning")** ：含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。
+
+## 开源书籍
+
+1. **[《Effective Java（第 3 版）各章节的中英文学习参考》](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)**
+2. **[《On Java 8 中文版》](https://github.com/LingCoder/OnJava8)**
+3. **[《DDIA（设计数据密集型应用） 中文翻译》](https://github.com/Vonng/ddia)**
+4. **[《图说设计模式》](https://github.com/me115/design_patterns)**
+5. **[《Java 8 简明教程 中文版》](https://github.com/wizardforcel/modern-java-zh)**
+6. **[《凤凰架构》](https://github.com/fenixsoft/awesome-fenix)**
 
 ## 实战项目
 
@@ -183,18 +184,18 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 开源的数据库建模工具比较少，以下是一些非开源的数据库建模工具（部分需要付费才能使用） :
 
-- **[MySQL Workbench](https://www.mysql.com/products/workbench/)** :  MySQL 官方为数据库架构师、开发人员和 DBA 提供的一个可视化工具。 MySQL Workbench 支持数据建模，SQL 开发以及服务器配置、用户管理、性能优化、数据库备份以及迁移等功能，支持 Windows、Linux 和 Mac OS X 平台。
+- **[MySQL Workbench](https://www.mysql.com/products/workbench/)** : MySQL 官方为数据库架构师、开发人员和 DBA 提供的一个可视化工具。 MySQL Workbench 支持数据建模，SQL 开发以及服务器配置、用户管理、性能优化、数据库备份以及迁移等功能，支持 Windows、Linux 和 Mac OS X 平台。
 - **[Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler)** : 一款强大的和符合成本效益的数据库设计工具，它能帮助用户创建高质素的概念、逻辑和物理数据模型。让你可视化地设计数据库结构、执行逆向或正向工程程序、从 ODBC 数据源导入模型、生成复杂的 SQL/DDL 和打印模型到文件等。付费。
 - **[DbSchema](https://dbschema.com/)** : 一款功能强大的数据库设计和管理的可视化工具，支持几乎所有的关系型和 NoSQL 数据库。付费。
-- **[dbdiagram.io](https://dbdiagram.io/home)** :  是一款简单免费的在线 ER 图绘制工具，通过编写代码创建模型，专为开发人员和数据分析师而设计。它通过一个简单的自定义语言来生成数据模型，支持 MySQL、PostgreSQL、SQL Server 数据库 DDL 文件的正向工程和逆向工程、版本历史、在线共享、导出图片或者 PDF 等功能。dbdiagram.io 提供了免费版。
+- **[dbdiagram.io](https://dbdiagram.io/home)** : 是一款简单免费的在线 ER 图绘制工具，通过编写代码创建模型，专为开发人员和数据分析师而设计。它通过一个简单的自定义语言来生成数据模型，支持 MySQL、PostgreSQL、SQL Server 数据库 DDL 文件的正向工程和逆向工程、版本历史、在线共享、导出图片或者 PDF 等功能。dbdiagram.io 提供了免费版。
 
 #### 数据库管理
 
 - **[Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio)** ：跨平台数据库管理工具，颜值高，支持 SQLite、MySQL、MariaDB、Postgres、CockroachDB、SQL Server、Amazon Redshift。
 - **[Sequel Pro](https://github.com/sequelpro/sequelpro)** ：适用于 macOS 的 MySQL/MariaDB 数据库管理工具。
-- **[DBeaver](https://github.com/dbeaver/dbeaver)** ：一个基于 Java 开发 ，并且支持几乎所有的数据库产品的开源数据库管理工具。DBeaver 社区版不光支持关系型数据库比如MySQL、PostgreSQL、MariaDB、SQLite、Oracle、Db2、SQL Server，还比如 SQLite、H2这些内嵌数据库。还支持常见的全文搜索引擎比如 Elasticsearch 和 Solr、大数据相关的工具比如Hive和 Spark。
+- **[DBeaver](https://github.com/dbeaver/dbeaver)** ：一个基于 Java 开发 ，并且支持几乎所有的数据库产品的开源数据库管理工具。DBeaver 社区版不光支持关系型数据库比如 MySQL、PostgreSQL、MariaDB、SQLite、Oracle、Db2、SQL Server，还比如 SQLite、H2 这些内嵌数据库。还支持常见的全文搜索引擎比如 Elasticsearch 和 Solr、大数据相关的工具比如 Hive 和 Spark。
 - **[Kangaroo](https://gitee.com/dbkangaroo/kangaroo)** ：袋鼠 是一款为热门数据库系统打造的管理客户端(SQLite / MySQL / PostgreSQL / ...) ，支持建表、查询、模型、同步、导入导出等功能，支持 Windows / Mac / Linux 等操作系统，力求打造成好用、好玩、开发友好的 SQL 工具。
-- **[Mongood](https://github.com/RenzHoly/Mongood)** :  MongoDB 图形化的管理工具。基于微软 Fluent UI，支持自动黑暗模式。
+- **[Mongood](https://github.com/RenzHoly/Mongood)** : MongoDB 图形化的管理工具。基于微软 Fluent UI，支持自动黑暗模式。
 
 ### 数据同步
 
@@ -409,8 +410,8 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 ### 开发必备
 
 2. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
-2. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
-3. **[Recaf](https://github.com/Col-E/Recaf)** ： Java 字节码编辑器，可简化编辑已编译 Java 应用程序的过程。
+3. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
+4. **[Recaf](https://github.com/Col-E/Recaf)** ： Java 字节码编辑器，可简化编辑已编译 Java 应用程序的过程。
 
 ### Markdown
 
