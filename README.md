@@ -200,7 +200,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 ### 数据同步
 
 1. **[Canal](https://github.com/alibaba/canal "canal")** [kə'næl] : Canal 译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费。
-2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。
+2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。相关项目：**[DataX-Web](https://github.com/WeiYe-Jing/datax-web)** （DataX集成可视化页面，选择数据源即可一键生成数据同步任务）。
 
 其他：**[Flinkx](https://github.com/DTStack/flinkx)** （基于 Flink 的分布式数据同步工具）。
 
