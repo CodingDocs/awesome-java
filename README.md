@@ -153,6 +153,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 - **[guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)** ：一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。
 - **[mini-spring](https://github.com/DerekYRC/mini-spring)** ：简化版的 Spring 框架，能帮助你快速熟悉 Spring 源码和掌握 Spring 的核心原理。代码极度简化，保留了 Spring 的核心功能，如 IoC 和 AOP、资源加载器等核心功能。
 - **[itstack-demo-jvm](https://github.com/fuzhengwei/itstack-demo-jvm)** ：通过 Java 代码来实现 JVM 的基础功能（搜索解析 class 文件、字节码命令、运行时数据区等。相关阅读：[《zachaxy 的手写 JVM 系列》](https://zachaxy.github.io/tags/JVM/)
+- **[Freedom](https://github.com/alchemystar/Freedom)** ：自己DIY一个具有ACID的数据库。相关项目：[MYDB](https://github.com/CN-GuoZiyang/MYDB)（一个简单的数据库实现）、[toyDB](https://github.com/erikgrinaker/toydb)（Rust 实现的分布式 SQL 数据库）。
 
 ## 系统设计
 
