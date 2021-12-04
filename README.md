@@ -1,6 +1,8 @@
-👉 [阿里云双 11 服务器新人优惠，2 核 2g ，一年仅需 58 元！数量有限！速抢](https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1532&recordId=959605&userCode=hf47liqn)
-
-<p align="center"> <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />Great Java project on Github(Github 上非常棒的 Java 开源项目). </p>
+<p align="center">
+    <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />
+    中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />
+    Great Java project on Github(Github 上非常棒的 Java 开源项目).
+</p>
 
 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 🙏。
 
