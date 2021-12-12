@@ -387,11 +387,12 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7 代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
 4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是 PDF。
 
-### API 请求
+### API 调试
 
+1. **[Apifox](https://www.apifox.cn/)** ：API 文档、API 调试、API Mock、API 自动化测试。
 1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
-2. **[postman](https://www.getpostman.com/)** ：API 请求生成器。
-3. **[postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
+2. **[Postman](https://www.getpostman.com/)** ：API 请求生成器。
+3. **[Postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
 ### 验证码
 
