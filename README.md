@@ -387,13 +387,6 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 3. **[itext7](https://github.com/itext/itext7)** ：iText 7 代表了想要利用利用好 PDF 的开发人员的更高级别的 sdk。iText 7 配备了更好的文档引擎、高级和低级编程功能以及创建、编辑和增强 PDF 文档的能力，几乎对每个工作流都有好处。
 4. **[FOP](https://xmlgraphics.apache.org/fop/)** :Apache FOP 项目的主要的输出目标是 PDF。
 
-### API 调试
-
-1. **[Apifox](https://www.apifox.cn/)** ：API 文档、API 调试、API Mock、API 自动化测试。
-1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
-2. **[Postman](https://www.getpostman.com/)** ：API 请求生成器。
-3. **[Postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
-
 ### 验证码
 
 - **[EasyCaptcha](https://gitee.com/whvse/EasyCaptcha)** ：Java 图形验证码，支持 gif、中文、算术等类型，可用于 Java Web、JavaSE 等项目。
@@ -410,6 +403,13 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
 
 ## 工具
+
+### API 调试
+
+1. **[Apifox](https://www.apifox.cn/)** ：API 文档、API 调试、API Mock、API 自动化测试。
+2. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
+3. **[Postman](https://www.getpostman.com/)** ：API 请求生成器。
+4. **[Postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
 ### 开发必备
 
