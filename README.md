@@ -23,7 +23,7 @@
   <tbody>
     <tr>
        <td align="center" valign="middle">
-        <a href="https://t.1yb.co/iskv">
+        <a href="https://sourl.cn/e7ee87">
          <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
@@ -346,21 +346,28 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 为了能让我们编写的系统更加健壮，必要的测试（UI 测试、单元测试...）是必须的。
 
-**框架** :
+#### 测试框架
 
 1. **[JUnit](http://junit.org/)** : Java 测试框架。
 2. **[Mockito](https://github.com/mockito/mockito)** ：Mockito 是一个模拟测试框架，可以让你用优雅，简洁的接口写出漂亮的单元测试。（对那些不容易构建的对象用一个虚拟对象来代替，使其在调试期间用来作为真实对象的替代品）
 3. **[PowerMock](https://github.com/powermock/powermock)** ： 编写单元测试仅靠 Mockito 是不够。因为 Mockito 无法 mock 私有方法、final 方法及静态方法等。PowerMock 这个 framework，主要是为了扩展其他 mock 框架，如 Mockito、EasyMock。它使用一个自定义的类加载器，纂改字节码，突破 Mockito 无法 mock 静态方法、构造方法、final 类、final 方法以及私有方法的限制。
 4. **[WireMock](https://github.com/tomakehurst/wiremock)** ：模拟 HTTP 服务的工具（Mock your APIs）。
 
-**测试平台** ：
-
-- **[MeterSphere](https://github.com/metersphere/metersphere)** : 一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
-
 相关阅读：
 
 1. [The Practical Test Pyramid- Martin Fowler](https://martinfowler.com/articles/practical-test-pyramid.html) (很赞的一篇文章，不过是英文的)
 2. [浅谈测试之 PowerMock](https://juejin.im/post/6844903982058618894)
+
+#### 测试平台
+
+- **[MeterSphere](https://github.com/metersphere/metersphere)** : 一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman、Swagger 等开源、主流标准。
+- **[Apifox](https://www.apifox.cn/)** ：API 文档、API 调试、API Mock、API 自动化测试。
+
+#### API 调试
+
+1. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
+2. **[Postman](https://www.getpostman.com/)** ：API 请求生成器。
+3. **[Postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
 ## 工具类库
 
@@ -403,13 +410,6 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 1. **[Jenkins](https://github.com/jenkinsci/jenkins)** : Jenkins 是领先的开源自动化服务器。它使用 Java 构建，提供了 1600 多个插件来支持几乎任何东西的自动化，从而使人类实际上可以将时间花在做机器无法做到的事情上。
 
 ## 工具
-
-### API 调试
-
-1. **[Apifox](https://www.apifox.cn/)** ：API 文档、API 调试、API Mock、API 自动化测试。
-2. **[Insomnia](https://insomnia.rest/)** :像人类而不是机器人一样调试 API。我平时经常用的，界面美观且轻量，总之很喜欢。
-3. **[Postman](https://www.getpostman.com/)** ：API 请求生成器。
-4. **[Postwoman](https://github.com/liyasthomas/postwoman "postwoman")** ：API 请求生成器-一个免费、快速、漂亮的 Postma 替代品。
 
 ### 开发必备
 
