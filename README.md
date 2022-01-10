@@ -36,6 +36,7 @@
 
 1. **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
 2. **[interview-guide](https://github.com/csguide-dabai/interview-guide)** ：总结了后端面试八股文中的重点，希望能帮助各位准备互联网开发岗校招面试的同学。
+2. **[toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)** ：一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 集合框架、Java 并发编程、JVM、Java 企业级开发（Git、SSM、Spring Boot）等知识点。
 3. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
 4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
 5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
@@ -155,7 +156,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 - **[guide-rpc-framework](https://github.com/Snailclimb/guide-rpc-framework)** ：一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。
 - **[mini-spring](https://github.com/DerekYRC/mini-spring)** ：简化版的 Spring 框架，能帮助你快速熟悉 Spring 源码和掌握 Spring 的核心原理。代码极度简化，保留了 Spring 的核心功能，如 IoC 和 AOP、资源加载器等核心功能。
 - **[itstack-demo-jvm](https://github.com/fuzhengwei/itstack-demo-jvm)** ：通过 Java 代码来实现 JVM 的基础功能（搜索解析 class 文件、字节码命令、运行时数据区等。相关阅读：[《zachaxy 的手写 JVM 系列》](https://zachaxy.github.io/tags/JVM/)
-- **[Freedom](https://github.com/alchemystar/Freedom)** ：自己DIY一个具有ACID的数据库。相关项目：[MYDB](https://github.com/CN-GuoZiyang/MYDB)（一个简单的数据库实现）、[toyDB](https://github.com/erikgrinaker/toydb)（Rust 实现的分布式 SQL 数据库）。
+- **[Freedom](https://github.com/alchemystar/Freedom)** ：自己 DIY 一个具有 ACID 的数据库。相关项目：[MYDB](https://github.com/CN-GuoZiyang/MYDB)（一个简单的数据库实现）、[toyDB](https://github.com/erikgrinaker/toydb)（Rust 实现的分布式 SQL 数据库）。
 
 ## 系统设计
 
@@ -178,8 +179,9 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 #### 缓存
 
-- **[Redis](https://github.com/redis/redis)** ：Redis 就是一个使用 C 语言开发的数据库，不过与传统数据库不同的是 Redis 的数据是存在内存中的 ，也就是它是内存数据库，所以读写速度非常快，因此 Redis 被广泛应用于缓存方向。另外，Redis 除了做缓存之外，也经常用来做分布式锁，甚至是消息队列。Redis 提供了多种数据类型来支持不同的业务场景。Redis 还支持事务 、持久化、Lua 脚本、多种集群方案。
-- **[Redisson](https://github.com/redisson/redisson "redisson")** ： [Redisson](https://redisson.org/ "Redisson")是架设在[Redis](http://redis.cn/ "Redis")基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")。
+- **[Caffeine](https://github.com/ben-manes/caffeine)** : 一款强大的本地缓存解决方案，性能非常 🐂。
+- **[Redis](https://github.com/redis/redis)** ：一个使用 C 语言开发的内存数据库，分布式缓存首选。
+- **[Redisson](https://github.com/redisson/redisson "redisson")** ： Redis 基础上的一个 Java 驻内存数据网格（In-Memory Data Grid）,支持超过 30 个对象和服务:`Set`,`SortedSet`, `Map`, `List`, `Queue`, `Deque` ......，并且提供了多种分布式锁的实现。更多介绍请看：[《Redisson 项目介绍》](https://github.com/redisson/redisson/wiki/Redisson%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D "Redisson项目介绍")。
 
 #### 数据库建模
 
@@ -203,7 +205,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 ### 数据同步
 
 1. **[Canal](https://github.com/alibaba/canal "canal")** [kə'næl] : Canal 译意为水道/管道/沟渠，主要用途是基于 MySQL 数据库增量日志解析，提供增量数据订阅和消费。
-2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。相关项目：**[DataX-Web](https://github.com/WeiYe-Jing/datax-web)** （DataX集成可视化页面，选择数据源即可一键生成数据同步任务）。
+2. **[DataX](https://github.com/alibaba/DataX "DataX")** ：DataX 是阿里巴巴集团内被广泛使用的离线数据同步工具/平台，实现包括 MySQL、Oracle、SqlServer、Postgre、HDFS、Hive、ADS、HBase、TableStore(OTS)、MaxCompute(ODPS)、DRDS 等各种异构数据源之间高效的数据同步功能。相关项目：**[DataX-Web](https://github.com/WeiYe-Jing/datax-web)** （DataX 集成可视化页面，选择数据源即可一键生成数据同步任务）。
 
 其他：**[Flinkx](https://github.com/DTStack/flinkx)** （基于 Flink 的分布式数据同步工具）。
 
@@ -274,7 +276,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 1. **[Kafdrop](https://github.com/obsidiandynamics/kafdrop)** : 一个用于查看 Kafka 主题和浏览消费者组的 Web UI。
 2. **[EFAK](https://github.com/smartloli/EFAK)** （Eagle For Apache Kafka，以前叫做 Kafka Eagle） ：一个简单的高性能监控系统，用于对 Kafka 集群进行全面的监控和管理。
 
-#### 数据源&读写分离&分库分表
+#### 多数据源&读写分离&分库分表
 
 数据库的数据量大了之后就要考虑读写分离、分库分表，但是一定要尽量能避免分库分表就避免，因为会带来很多其他问题。
 
@@ -297,7 +299,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 1. **[Quartz](https://github.com/quartz-scheduler/quartz)** ：一个很火的开源任务调度框架，Java 定时任务领域的老大哥或者说参考标准， 很多其他任务调度框架都是基于 `quartz` 开发的，比如当当网的`elastic-job`就是基于`quartz`二次开发之后的分布式调度解决方案
 2. **[XXL-JOB](https://github.com/xuxueli/xxl-job)** :XXL-JOB 是一个分布式任务调度平台，其核心设计目标是开发迅速、学习简单、轻量级、易扩展。现已开放源代码并接入多家公司线上产品线，开箱即用。
 3. **[Elastic-Job](http://elasticjob.io/index_zh.html)** ：Elastic-Job 是当当网开源的一个基于 Quartz 和 Zookeeper 的分布式调度解决方案，由两个相互独立的子项目 Elastic-Job-Lite 和 Elastic-Job-Cloud 组成，一般我们只要使用 Elastic-Job-Lite 就好。
-4. **[EasyScheduler](https://github.com/analysys/EasyScheduler "EasyScheduler")** （ 更名为 DolphinScheduler，已经成为 Apache 孵化器项目）： Easy Scheduler 是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler 以 DAG 方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
+4. **[EasyScheduler](https://github.com/analysys/EasyScheduler "EasyScheduler")** （已经更名为 DolphinScheduler，已经成为 Apache 孵化器项目）： Easy Scheduler 是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler 以 DAG 方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
 5. **[PowerJob](https://gitee.com/KFCFans/PowerJob)** ：新一代分布式任务调度与计算框架，支持 CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！http://www.powerjob.tech/ 。
 
 相关阅读：[Spring Job、Quartz、XXL-Job 对比+全解析](https://mp.weixin.qq.com/s/jqN4noo5NazckPCehWFgpA)
@@ -411,25 +413,37 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ## 工具
 
-### 开发必备
+### Java 相关
 
-2. **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis Manager 是 Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
-3. **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
-4. **[Recaf](https://github.com/Col-E/Recaf)** ： Java 字节码编辑器，基于 ASM（Java 字节码操作框架） 来修改字节码，可简化编辑已编译 Java 应用程序的过程。
-4. **[PrettyZoo](https://github.com/vran-dev/PrettyZoo)** ： 一个基于 Apache Curator 和 JavaFX 实现的 ZooKeeper 图形化管理客户端，颜值非常高，支持 Mac / Windows / Linux 。你可以使用 PrettyZoo 来实现对 ZooKeeper 的可视化增删改查。
+- **[JADX](https://github.com/skylot/jadx)** ：一款功能强大的反编译工具。
+- **[Recaf](https://github.com/Col-E/Recaf)** ： Java 字节码编辑器，基于 ASM（Java 字节码操作框架） 来修改字节码，可简化编辑已编译 Java 应用程序的过程。
+
+### Redis 可视化管理
+
+- **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/README.zh-CN.md)** ：更快、更好、更稳定的Redis桌面(GUI)管理客户端。
+- **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
+
+### Docker & Kubernetes 可视化管理
+
+- **[Portainer](https://github.com/portainer/portainer)** ：可视化管理 Docker 和 Kubernetes。相关阅读：[《吊炸天的 Docker 图形化工具 Portainer，必须推荐给你！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247504221&idx=1&sn=85a3c69d64fba1b0d6d8485ab28ab4c4&chksm=cea19e96f9d617802920d5769bafc824b3b80afdfb6166a00532f0caa3b6f5bdac930e4e89de&token=693114125&lang=zh_CN#rd)。
+
+### ZooKeeper 可视化管理
+
+- **[PrettyZoo](https://github.com/vran-dev/PrettyZoo)** ： 一个基于 Apache Curator 和 JavaFX 实现的 ZooKeeper 图形化管理客户端，颜值非常高，支持 Mac / Windows / Linux 。你可以使用 PrettyZoo 来实现对 ZooKeeper 的可视化增删改查。
 
 ### Markdown
 
-1. **[Typora](https://www.typora.io/)** :我一直用的一款 Markdown 工具，直接文件夹试图和目录试图，支持 Markdown 格式直接导出成 PDF、HTML 等格式。
-2. **[markdown-here](https://github.com/adam-p/markdown-here)** ：使用 markdown 语法发邮件，并且提供多种主题，快来拯救你的邮件格式吧！
+- **[MarkText](https://github.com/marktext/marktext)** ：一个简单而优雅的开源 Markdown 编辑器，专注于速度和可用性。Linux、macOS 和 Windows 均适用。
+- **[Typora](https://www.typora.io/)** :我一直用的一款 Markdown 工具，直接文件夹试图和目录试图，支持 Markdown 格式直接导出成 PDF、HTML 等格式。
+- **[Markdown Here](https://github.com/adam-p/markdown-here)** ：使用 Markdown 语法发邮件，并且提供多种主题，快来拯救你的邮件格式吧！
 
 ## 大数据
 
-1. **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
-2. **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
-3. **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
-4. **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
-5. **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
+- **[Spark](https://github.com/apache/spark)** :Spark 是用于大规模数据处理的统一分析引擎。
+- **[Flink](https://github.com/apache/flink "flink")** ：Apache Flink 是一个框架和分布式处理引擎，用于在*无边界和有边界*数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。
+- **[HBase](https://hbase.apache.org/)**： HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分布式存储系统，利用 HBase 技术可在廉价 PC Server 上搭建起大规模结构化存储集群。
+- **[Flume](https://flume.apache.org/)** :Apache Flume 是一个分布式的、可靠的、可用的，从多种不同的源收集、聚集、移动大量日志数据到集中数据存储的系统。
+- **[Storm](https://storm.apache.org/)** : 一个分布式，高容错的实时计算系统。
 
 ## 机器学习
 
