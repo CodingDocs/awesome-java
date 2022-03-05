@@ -3,6 +3,7 @@
     中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />
     Great Java project on Github(Github 上非常棒的 Java 开源项目).
 </p>
+> 我的最新网站已经上线，欢迎点击链接体验：[https://javaguide.cn/](https://javaguide.cn/) （「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！）
 
 大家都知道 Github 是一个程序员福地，这里有各种厉害的开源框架、软件或者教程。这些东西对于我们学习和进步有着莫大的进步，所以我有了这个将 Github 上非常棒的 Java 开源项目整理下来的想法。我会按照几个维度对项目进行分类，以便大家查阅。当然，如果你觉得不错的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份名单，谢谢 🙏。
 
@@ -13,17 +14,13 @@
 - Github 地址：[https://github.com/CodingDocs/awesome-java](https://github.com/CodingDocs/awesome-java)
 - 码云地址：[https://gitee.com/SnailClimb/awesome-java](https://gitee.com/SnailClimb/awesome-java)（Github 无法访问或者访问速度比较慢的小伙伴可以看码云上的对应内容）
 
-👉 如果你不知道该学习什么的话，请看 [Java 学习线路图是怎样的？](https://zhuanlan.zhihu.com/p/379041500) （原创不易，欢迎点赞，精简版学习路线正在路上），这是 2021 最新最完善的 Java 学习路线！
-
-👉[我把学习 Java 必备的一些书籍的 PDF 版本统一分类整理了下来，需要的小伙伴可以自取](https://gitee.com/SnailClimb/awesome-cs#%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD) （百度云链接放在公众号，需要关注一波。不喜欢公众号内容的话，领取了资料之后取关即可）
-
 ## Sponsor
 
 <table>
   <tbody>
     <tr>
        <td align="center" valign="middle">
-        <a href="https://sourl.cn/e7ee87">
+        <a href="https://www.yuque.com/docs/share/8a30ffb5-83f3-40f9-baf9-38de68b906dc">
          <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
@@ -34,31 +31,31 @@
 
 ### Java
 
-1. **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
-2. **[interview-guide](https://github.com/csguide-dabai/interview-guide)** ：总结了后端面试八股文中的重点，希望能帮助各位准备互联网开发岗校招面试的同学。
-2. **[toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)** ：一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 集合框架、Java 并发编程、JVM、Java 企业级开发（Git、SSM、Spring Boot）等知识点。
-3. **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
-4. **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
-5. **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
-6. **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
-7. **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
-8. **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
-9. **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
-10. **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： 用 Java 实现的设计模式。
+- **[JavaGuide](https://github.com/Snailclimb/JavaGuide "JavaGuide")** :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+- **[interview-guide](https://github.com/csguide-dabai/interview-guide)** ：总结了后端面试八股文中的重点，希望能帮助各位准备互联网开发岗校招面试的同学。
+- **[toBeBetterJavaer](https://github.com/itwanger/toBeBetterJavaer)** ：一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 集合框架、Java 并发编程、JVM、Java 企业级开发（Git、SSM、Spring Boot）等知识点。
+- **[advanced-java](https://github.com/doocs/advanced-java "advanced-java")** :互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识。
+- **[architect-awesome](https://github.com/xingshaocheng/architect-awesome "architect-awesome")** ：后端架构师技术图谱。
+- **[toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer "toBeTopJavaer")** ：Java 工程师成神之路 。
+- **[technology-talk](https://github.com/aalansehaiyang/technology-talk)** : 汇总 java 生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识
+- **[tutorials](https://github.com/eugenp/tutorials "tutorials")**：该项目是一系列小而专注的教程 - 每个教程都涵盖 Java 生态系统中单一且定义明确的开发领域。 当然，它们的重点是 Spring Framework - Spring，Spring Boot 和 Spring Securiyt。 除了 Spring 之外，还有以下技术：核心 Java，Jackson，HttpClient，Guava。
+- **[JCSprout](https://github.com/crossoverJie/JCSprout "JCSprout")** :处于萌芽阶段的 Java 核心知识库。
+- **[bestJavaer](https://github.com/crisxuan/bestJavaer)** : 这是一个成为更好的 Java 程序员的系列教程。
+- **[java-design-patterns](https://github.com/iluwatar/java-design-patterns "java-design-patterns")** ： 用 Java 实现的设计模式。
 
 ### 数据结构/算法
 
-1. **[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation "LeetCodeAnimation")** :Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）。
-2. **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
-3. **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
-4. **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
-5. **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从 0 到 1 系统学习算法和数据结构。
-6. **[algorithm-base](https://github.com/chefyuan/algorithm-base)** ：专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
+- **[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation "LeetCodeAnimation")** :Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解 LeetCode 题目的思路）。
+- **[TheAlgorithms-Java](https://github.com/TheAlgorithms/Java "TheAlgorithms-Java")** :All Algorithms implemented in Java。
+- **[leetcode](https://github.com/doocs/leetcode)** ：多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解。
+- **[LeetCode-Solution-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solution-in-Good-Style)** ：这个项目是作者在学习《算法与数据结构》的时候，在 [LeetCode（力扣）](https://leetcode-cn.com/) 上做的练习，刷题以 Java 语言为主。作者在刷题的时候，非常考虑代码质量，他的很多问题的回答都被 Leetcode 官方精选，值得推荐!
+- **[Algorithms-in-4-Steps](https://github.com/Xunzhuo/Algorithms-in-4-Steps)** ：四步从 0 到 1 系统学习算法和数据结构。
+- **[algorithm-base](https://github.com/chefyuan/algorithm-base)** ：专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！
 
 ### 计算机基础
 
-1. **[CS-Notes](https://github.com/CyC2018/CS-Notes "CS-Notes")** ：技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
-2. **[Waking-Up](https://github.com/wolverinn/Waking-Up)** ：计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的 follow-up question 以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试 🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
+- **[CS-Notes](https://github.com/CyC2018/CS-Notes "CS-Notes")** ：技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计。
+- **[Waking-Up](https://github.com/wolverinn/Waking-Up)** ：计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的 follow-up question 以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试 🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
 
 ### SpringBoot
 
@@ -163,6 +160,7 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 ### 基础框架
 
 - **[Spring Boot ](https://github.com/spring-projects/spring-boot "spring-boot")** ：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序,内置 web 服务器让你可以像运行普通 Java 程序一样运行项 目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。
+- **[Quarkus](https://github.com/quarkusio/quarkus)** : 用于编写 Java 应用程序的云原生和容器优先的框架。
 - **[SOFABoot](https://github.com/sofastack/sofa-boot)** ：SOFABoot 基于 Spring Boot ，不过在其基础上增加了 Readiness Check，类隔离，日志空间隔离等等能力。 配套提供的还有：SOFARPC（RPC 框架）、SOFABolt（基于 Netty 的远程通信框架）、SOFARegistry（注册中心）...详情请参考：[SOFAStack ](https://github.com/sofastack) 。
 - [**Spring Batch**](https://github.com/spring-projects/spring-batch) : Spring Batch 是一个轻量级但功能又十分全面的批处理框架，主要用于批处理场景比如从数据库、文件或队列中读取大量记录。不过，需要注意的是：**Spring Batch 不是调度框架**。商业和开源领域都有许多优秀的企业调度框架比如 Quartz、XXL-JOB、Elastic-Job。它旨在与调度程序一起工作，而不是取代调度程序。更多介绍请参考 [Spring Batch 官方文档](https://docs.spring.io/spring-batch/docs/4.3.x/reference/html/spring-batch-intro.html#spring-batch-intro)，入门教程可以参考 [Spring Batch 从入门到实战](https://mrbird.cc/Spring-Batch入门.html)。
 
@@ -170,8 +168,8 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 
 #### 连接池
 
-1. **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
-2. **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
+- **[Druid](https://github.com/alibaba/druid)** : 阿里巴巴数据库事业部出品，为监控而生的数据库连接池。
+- **[HikariCP](https://github.com/brettwooldridge/HikariCP)** : 一个可靠的高性能 JDBC 连接池。Springboot 2.0 选择 HikariCP 作为默认数据库连接池。
 
 #### 框架
 
@@ -301,8 +299,12 @@ _Guide 哥注：权限管理系统在企业级的项目中一般都是非常重�
 3. **[Elastic-Job](http://elasticjob.io/index_zh.html)** ：Elastic-Job 是当当网开源的一个基于 Quartz 和 Zookeeper 的分布式调度解决方案，由两个相互独立的子项目 Elastic-Job-Lite 和 Elastic-Job-Cloud 组成，一般我们只要使用 Elastic-Job-Lite 就好。
 4. **[EasyScheduler](https://github.com/analysys/EasyScheduler "EasyScheduler")** （已经更名为 DolphinScheduler，已经成为 Apache 孵化器项目）： Easy Scheduler 是一个分布式工作流任务调度系统，主要解决“复杂任务依赖但无法直接监控任务健康状态”的问题。Easy Scheduler 以 DAG 方式组装任务，可以实时监控任务的运行状态。同时，它支持重试，重新运行等操作... 。
 5. **[PowerJob](https://gitee.com/KFCFans/PowerJob)** ：新一代分布式任务调度与计算框架，支持 CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！http://www.powerjob.tech/ 。
+6. **[DolphinScheduler](https://github.com/apache/dolphinscheduler)** ：分布式易扩展的可视化工作流任务调度平台
 
-相关阅读：[Spring Job、Quartz、XXL-Job 对比+全解析](https://mp.weixin.qq.com/s/jqN4noo5NazckPCehWFgpA)
+相关阅读：
+
+- [Spring Job、Quartz、XXL-Job 对比+全解析](https://mp.weixin.qq.com/s/jqN4noo5NazckPCehWFgpA)
+- [推荐 5 个 YYDS 的 Java 项目](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247518215&idx=1&sn=91e467f39322d2e7979b85fe235822d2&chksm=cea1c7ccf9d64edaf966c95923d72d337bf5e655a773a3d295d65fc92e4535ae5d8b0e6d9d86&token=2063686030&lang=zh_CN#rd)
 
 ### 搜索引擎
 
@@ -420,7 +422,7 @@ Solr 比较老牌了，但是，目前生态以及社区活跃度都比不上 El
 
 ### Redis 可视化管理
 
-- **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/README.zh-CN.md)** ：更快、更好、更稳定的Redis桌面(GUI)管理客户端。
+- **[Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager/blob/master/README.zh-CN.md)** ：更快、更好、更稳定的 Redis 桌面(GUI)管理客户端。
 - **[Redis Manager](https://github.com/ngbdf/redis-manager)** ：Redis 一站式管理平台，支持集群（cluster、master-replica、sentinel）的监控、安装（除 sentinel）、管理、告警以及基本的数据操作功能。
 
 ### Docker & Kubernetes 可视化管理
