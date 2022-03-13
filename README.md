@@ -3,9 +3,8 @@
     中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />
     非常棒的 Java 开源项目
 </p>
-> 我的最新网站已经上线，欢迎点击链接体验：[https://javaguide.cn/](https://javaguide.cn/) （「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！）
 
-由于项目内容过大，阅读起来不太方便，我已将其同步到了自己网站：
+由于项目内容过多，阅读起来不太方便，我已将其同步到了自己网站：
 
 - [教程](https://javaguide.cn/open-source-project/tutorial.html)
 - [实战](https://javaguide.cn/open-source-project/practical-project.html)
