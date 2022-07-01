@@ -46,7 +46,7 @@
 5. [一个比 Spring 更轻量级的 Web 框架！！！微软、红帽都在用](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247519466&idx=1&sn=0dd412d5220444b37a1101f77ccdc65d&chksm=cea1c321f9d64a376ef7de329b5c91e593a32c7a8e5c179b7ab3619296feea35939deb1f6a3f&scene=178&cur_album_id=1345382825083895808#rd)
 6. [轻量！Google 开源了一个简易版 Spring ！](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247519972&idx=1&sn=f03c67e6e24eda2ccf703c8a9bc8c8f8&chksm=cea1c12ff9d6483943f409e5ab50b773b5750b63d00950805fa340a67ad7b52ee74ff6651043&scene=178&cur_album_id=1345382825083895808#rd)
 7. [一款跨时代的高性能 Java 框架！启动速度快到飞起](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247520633&idx=1&sn=aec35af40e3ed3b1e844addd04e31af5&chksm=cea1deb2f9d657a46a0684bbcbcb2900cebff39a2b2746a4a809b6b5306bce08d4382efd5ca8&scene=178&cur_album_id=1345382825083895808#rd)
-8. [Spring Boot+MyBatis Plus+JWT 问卷系统！开源！open in new window](https://mp.weixin.qq.com/s/kRgqHt73ZJGFQ2XmKG4PXw)
+8. [Spring Boot+MyBatis Plus+JWT 问卷系统！开源！](https://mp.weixin.qq.com/s/kRgqHt73ZJGFQ2XmKG4PXw)
 9. [手写一个简化版的 Spring Cloud！](https://mp.weixin.qq.com/s/v3FUp-keswE2EhcTaLpSMQ)
 
 推荐你在我的公众号“**JavaGuide**”回复“**开源**”在线阅读[「优质开源项目推荐」](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTA0Njk0OA==&action=getalbum&album_id=1345382825083895808&scene=173&from_msgid=2247516459&from_itemidx=1&count=3&nolastread=1#wechat_redirect)系列。
