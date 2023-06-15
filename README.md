@@ -3,7 +3,7 @@
 <div align="center">
     <p>
         <a href="https://www.yuque.com/docs/share/8a30ffb5-83f3-40f9-baf9-38de68b906dc">
-            <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/xingqiu/xingqiu.png" style="margin: 0 auto; width: 850px;" />
+            <img src="https://oss.javaguide.cn/xingqiu/xingqiu.png" style="margin: 0 auto; width: 850px;" />
         </a>
     </p>
     <p>  
@@ -12,7 +12,7 @@
     </p>  
 </div>
 <p align="center">
-    <img src="https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />
+    <img src="https://oss.javaguide.cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/Awesome-Java.png" /> <br />
     中文 | <a href="https://github.com/Snailclimb/awsome-java/blob/master/README-EN.md">English</a> <br />
     非常棒的 Java 开源项目
 </p>
@@ -51,6 +51,6 @@
 
 推荐你在我的公众号“**JavaGuide**”回复“**开源**”在线阅读[「优质开源项目推荐」](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2OTA0Njk0OA==&action=getalbum&album_id=1345382825083895808&scene=173&from_msgid=2247516459&from_itemidx=1&count=3&nolastread=1#wechat_redirect)系列。
 
-![“JavaGuide”公众号回复“开源”](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/open-source-project/image-20220512211235432.png)
+![“JavaGuide”公众号回复“开源”](https://oss.javaguide.cn/github/javaguide/open-source-project/image-20220512211235432.png)
 
-![我的公众号](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/github/javaguide/books167598cd2e17b8ec.png)
+![我的公众号](https://oss.javaguide.cn/github/javaguide/books167598cd2e17b8ec.png)
