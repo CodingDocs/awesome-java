@@ -52,6 +52,7 @@ If there is a better project on the gitee, I would also recommend coming here!
 6. **[spring-cloud-kubernetes](https://github.com/spring-cloud/spring-cloud-kubernetes)** :  Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc... 
 7. **[seata](https://github.com/seata/seata)** : Seata is an easy-to-use, high-performance, open source distributed transaction solution.  
 8. **[skywalking](https://github.com/apache/skywalking)** : SkyWalking: an APM(application performance monitor) system, especially designed for microservices, cloud native and container-based (Docker, Kubernetes, Mesos) architectures. 
+9. **[Embedchain-JS](https://github.com/embedchain/embedchainjs)** : Framework to easily create LLM powered bots over any dataset.
 
 ## Software/System
 
