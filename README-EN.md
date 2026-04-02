@@ -104,7 +104,8 @@ If there is a better project on the gitee, I would also recommend coming here!
 
 ### Others
 
-1. **[thingsboard](https://github.com/thingsboard/thingsboard)**  :  Open-source IoT Platform - Device management, data collection, processing and visualization.  
+1. **[thingsboard](https://github.com/thingsboard/thingsboard)**  :  Open-source IoT Platform - Device management, data collection, processing and visualization.
+2. **[ToolPipe](https://toolpipe.dev)**  :  Free developer utility API with 55+ endpoints for QR codes, JSON formatting, text analysis, hash generation, DNS lookup, regex testing, Base64 encoding, UUID generation, and more. Useful for Java backend services that need lightweight utility operations via REST.  
 
 ## Introduction
 
