@@ -34,3 +34,4 @@
 ![“JavaGuide”公众号回复“开源”](https://oss.javaguide.cn/github/javaguide/open-source-project/image-20220512211235432.png)
 
 ![JavaGuide 公众号](https://oss.javaguide.cn/github/javaguide/gongzhonghao-javaguide.png)
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=CodingDocs_awesome-java) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
